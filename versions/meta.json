@@ -7,9 +7,7 @@
         "releasedAt": 209384093820,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
+                "curseforge": "https://curseforge.com/"
             }
         }
     }

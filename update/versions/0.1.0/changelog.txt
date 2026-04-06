@@ -1,0 +1,29 @@
+Added:
+- Advanced Backups
+- Beautiful Enchanted Books
+- Beautiful Potions
+- Entity Model Features
+- Entity Texture Features
+- Omega Mute
+- PlayerRevive
+
+Removed:
+- ArsThreaded Expansion - (Casued issues with dying Ars Nouveau armors)
+- Forgified Fabric API
+- Garden Trails
+
+Updated:
+- Supplementaries
+- Tinkers' Compatibility
+- Sophisticated Core
+- Chat Heads
+- Simple Voice Chat
+- Oh The Trees You'll Grow
+- Sophisticated Storage
+- Sophisticated Storage Create Integration
+- Sophisticated Item Actions
+- Sophisticated Inventory Interactions
+- PacketFixer
+- Collective
+- Skin Layers 3D
+- Sophisticated Backpacks

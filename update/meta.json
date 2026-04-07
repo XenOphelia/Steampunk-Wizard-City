@@ -4,7 +4,7 @@
   "versions": [
     {
         "id": "0.0.1",
-        "releasedAt": 1775225312,
+        "releasedAt": 1775225312000,
         "promotions": {
             "downloads": {
                 "modrinth": "https://modrinth.com/",
@@ -15,7 +15,7 @@
     },
     {
         "id": "0.1.0",
-        "releasedAt": 1775538414,
+        "releasedAt": 1775538414000,
         "promotions": {
             "downloads": {
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/steampunk-wizard-city"
@@ -24,7 +24,7 @@
     },
     {
         "id": "0.1.1",
-        "releasedAt": 	1775589750,
+        "releasedAt": 	1775589750000,
         "promotions": {
             "downloads": {
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/steampunk-wizard-city"

@@ -1,5 +1,5 @@
 Added:
-- Advanced Backups
+- Advanced Backups - (Edit config file to enable Auto Save)
 - Beautiful Enchanted Books
 - Beautiful Potions
 - Entity Model Features

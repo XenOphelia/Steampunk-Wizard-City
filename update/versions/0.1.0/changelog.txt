@@ -8,7 +8,7 @@ Added:
 - PlayerRevive
 
 Removed:
-- ArsThreaded Expansion - (Casued issues with dying Ars Nouveau armors)
+- ArsThreaded Expansion - (Caused issues with dying Ars Nouveau armors)
 - Forgified Fabric API
 - Garden Trails
 

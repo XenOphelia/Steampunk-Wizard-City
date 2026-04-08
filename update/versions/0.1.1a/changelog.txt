@@ -1,2 +1,2 @@
-Fixed:
+Hot Fix:
 - Modpack Update Checker working now

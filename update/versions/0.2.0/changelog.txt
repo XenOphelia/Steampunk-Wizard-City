@@ -1,0 +1,13 @@
+Added:
+- ImmersiveMC
+
+Updated:
+- Simple Voice Chat 
+- Collective
+- Sophisticated Item Actions
+- Sophisticated Core 
+- Sophisticated Storage 
+- Tinkers' Compatibility
+- NotEnoughAnimations
+- Nature's Compass
+- Explorer's Compass

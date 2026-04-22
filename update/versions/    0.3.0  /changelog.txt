@@ -1,4 +1,4 @@
-v 0.3.0 - Now with MORE MAGGIC!
+v 0.3.0 - Now with MORE MAGIC!
 
 Added:
 - Iron's Spells 'n Spellbooks

@@ -1,0 +1,63 @@
+v 0.3.0 - Now with MORE MAGGIC!
+
+Added:
+- Iron's Spells 'n Spellbooks
+- ISS-Scroll-Description
+- Iron's Lib
+- Iron's Spellbooks KubeJS
+- Create Bits 'n' Bobs
+- Carry On
+- Crash Utilities
+- Create Recycling
+- Create: Compatible Storage
+- Create: Vampirism
+- Create: Wizardry
+- Cull Less Leaves Reforged
+- Dramatic Doors
+- Double Doors
+- Colorwheel
+- All The Leaks
+- Nolijium
+- Not Enough Recipe Book
+- Vanillin
+- Waystones Teleport Pets
+
+Updated:
+- Born in Chaos
+- Collective
+- ConfiguredDefaults
+- CraterLib
+- CreateBetterFps
+- Croptopia
+- Cupboard utilities
+- Entity Model Features
+- Entity Texture Features
+- Farmer's Delight
+- Flerovium
+- Gnetum
+- Guide-API VP
+- Integrated API
+- Json Things
+- Just Enough Items
+- Krypton FNP
+- LionfishAPI
+- ModernFix
+- Moonlight Library
+- NotEnoughAnimations
+- Open Parties and Claims
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Inventory Interactions
+- Sophisticated Item Actions
+- Sophisticated Storage
+- Sophisticated Storage Create Integration
+- Structure Essentials mod
+- Vampirism
+
+Removed:
+- DoesPotatoTick
+- Fastload-Reforged
+- Gpu memory leak fix
+- Lootintegrations mod [only needed on server-side]
+- Lootintegrations Better Archeology
+- SimpleVoiceChat Broadcast [only needed on server-side]

@@ -1,0 +1,13 @@
+name = "Create: Ars Nouveau Compat"
+filename = "create_ars_nouveau_compat-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7114c776faa1add981e19e9506b20f06ceacf169"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6645037
+project-id = 1285569

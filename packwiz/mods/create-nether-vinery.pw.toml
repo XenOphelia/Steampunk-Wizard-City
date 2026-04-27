@@ -1,0 +1,13 @@
+name = "Create Nether Vinery"
+filename = "createnv-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dee174cb02d0469472033441b17deb24e3ae80e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6639457
+project-id = 1284509

@@ -1,0 +1,13 @@
+name = "Integrated Dungeons and Structures- Configuration Datapack"
+filename = "idasconfig-1.13.0-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efdbabf45418dfb7846625b3831ccd4748fe6d7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7787519
+project-id = 663108

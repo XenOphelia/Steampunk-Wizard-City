@@ -1,0 +1,13 @@
+name = "Integrated Stronghold- Configuration"
+filename = "integrated_stronghold_config_forge-1.1.1-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90d185f9ee53b36294b18065315b09c127332ab8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5178481
+project-id = 833654

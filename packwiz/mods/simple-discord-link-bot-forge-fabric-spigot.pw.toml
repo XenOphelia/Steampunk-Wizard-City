@@ -1,0 +1,13 @@
+name = "Simple Discord Link Bot"
+filename = "SimpleDiscordLink-Universal-3.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c53f4d0f5216fb4c37eada79f9d1f5baf20904b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7950232
+project-id = 541320

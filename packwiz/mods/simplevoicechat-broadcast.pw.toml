@@ -1,0 +1,13 @@
+name = "SimpleVoiceChat Broadcast"
+filename = "simplevoicechat_broadcast-mc1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e5a9ccb497c0251ba0fce10e265989fb13a8a80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4949137
+project-id = 942329

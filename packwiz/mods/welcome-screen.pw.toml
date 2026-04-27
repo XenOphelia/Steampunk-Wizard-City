@@ -1,0 +1,13 @@
+name = "Welcome Screen (Modpack Utils Series)"
+filename = "welcomescreen-forge-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ae72875a99a4e1ccd6088a21143ae60c987dbaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6158673
+project-id = 1193211

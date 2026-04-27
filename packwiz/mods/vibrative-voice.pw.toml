@@ -1,0 +1,13 @@
+name = "Vibrative Voice"
+filename = "VibrativeVoice-forge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b61622af8e72f78f9da305e5e7c11103601378e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6508166
+project-id = 1019011

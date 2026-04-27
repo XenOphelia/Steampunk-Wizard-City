@@ -1,0 +1,13 @@
+name = "Quark Recipes Regions Unexplored"
+filename = "Quark_Recipes_Unexplored_1.20.1(ver.1.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8ae8425e3c54865d3d702ef54d2c1f30046c686"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7331721
+project-id = 1404348

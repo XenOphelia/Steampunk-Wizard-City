@@ -1,0 +1,13 @@
+name = "Tinker's Extra Integrations"
+filename = "tinkersextraintegration-1.20.1-Forge-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af545d5049537f1ae3451b0247891acd6e8e2503"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7519169
+project-id = 1416543

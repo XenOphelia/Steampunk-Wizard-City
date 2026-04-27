@@ -1,0 +1,13 @@
+name = "Tinkers' Unexplored"
+filename = "Tinkers-Unexplored-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9a59cc81950f43fa1eb17d532c9bee92e5e1973"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6751001
+project-id = 1303756

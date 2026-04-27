@@ -1,0 +1,13 @@
+name = "Steampunk Wizard City"
+author = "Xen Ophelia"
+version = "0.3.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2cf843822683faf205c23c283c70e1040f891b0fa28c4641ceb654c42fc1cb8d"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

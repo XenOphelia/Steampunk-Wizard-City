@@ -1,0 +1,13 @@
+name = "Quark Recipes Oh The Biomes We've Gone"
+filename = "Quark_Recipes_Oh_The_Biomes_We_Ve_Gone_1.20.1(ver.1.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9722dcece14e26879eeb2bc3f66dc2c557d662e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7706521
+project-id = 1476874

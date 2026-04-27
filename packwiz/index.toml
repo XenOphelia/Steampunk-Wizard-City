@@ -41,6 +41,10 @@ file = "configureddefaults/config/xaero/world-map/client.cfg"
 hash = "567e924b1e00320742f7c3bcd767fb6afdb3e32ba00a17ae6aa81e1cb15aae3d"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "05aa12e7e89f8b32f6d88e82c722a3ec2515090153225f43335dd5b7d8acd205"
+
+[[files]]
 file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
 hash = "090a0786729debb706029de203915c4c7cb1f3ca1a9c5fcf4e5082389316d2aa"
 metafile = true
@@ -696,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "1f621129a3088055d0f1ff7dd0bddc603aafd4b9bed68d75dd3561e78638e673"
+hash = "cf46dd152f61d650e7950db794237cd132f13d2d9c7f4f0813c97749811d0f55"
 metafile = true
 
 [[files]]
@@ -1866,7 +1870,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-desert-temples-compat.pw.toml"
-hash = "8298a46642ae836d7ce07fb9494d3b6be2e87c6dc4d45471da7cd813ce15ae42"
+hash = "40f10d83a7d84d8d2fd8171cd1a85846f08929df76f942dce2ebaf8bfc9e2d90"
 metafile = true
 
 [[files]]
@@ -1886,7 +1890,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-ocean-monuments.pw.toml"
-hash = "8fef3c19308bd401752ca5e83302d46db70b473faad364d003c75dea1ed557e7"
+hash = "ab37b5461e95ba1ac917081287d2c1f542691d182aa446e5e21b75c57e5993f6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Create: Dynamic Village Compat Datapack"
+filename = "Repurposed_Structures-Create_Dynamic_Village_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d55cb410e25fc6d640a843cce84fca71ee13f96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5803309
+project-id = 1119627

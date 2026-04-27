@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "0.3.1",
+  "modpackName": "Steampunk Wizard City",
+  "modpackAuthor": "Xen Ophelia",
+  "modpackReleaseType": "beta",
+  "updateCheckerId": "https://raw.githubusercontent.com/XenOphelia/Steampunk-Wizard-City/main/update/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}

@@ -1920,6 +1920,10 @@ hash = "3612f60841c0fed8afba8603b7d74e14b138a412e4d4d403d1346e2a80ed4b8c"
 metafile = true
 
 [[files]]
+file = "shaderpacks/BSL_v8.4.zip.txt"
+hash = "00a07c89dedf28916c9e8bc89b7b2ec35318b4dfd17b6c31ed651be7614718f9"
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "c384d1c117331920a44021339b534c9129286b78ccdf54cda7a41a3ce75529e4"
 metafile = true
@@ -1936,4 +1940,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "d39a4e72f61db5d74d2c6c7832285d46b3b5b02de5102ff9371252dead7fd2ae"
+hash = "27ff587ca88dd9f5d28a8236b5bfca896b807f59297939b87b5bfccf11d53ff0"

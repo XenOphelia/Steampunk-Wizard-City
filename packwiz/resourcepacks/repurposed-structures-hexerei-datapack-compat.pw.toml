@@ -1,13 +1,12 @@
 name = "Repurposed Structures - Hexerei Compat Datapack"
+side = "server"
 filename = "Repurposed_Structures-Hexerei_v6.zip"
-side = "both"
 
-[download]
-hash-format = "sha1"
-hash = "aee2708f5908803d9c3e80cb989511d366041441"
-mode = "metadata:curseforge"
-
-[update]
 [update.curseforge]
 file-id = 5465349
 project-id = 554338
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "aee2708f5908803d9c3e80cb989511d366041441"

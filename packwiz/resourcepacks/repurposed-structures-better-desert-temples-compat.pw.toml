@@ -1,5 +1,5 @@
 name = "Repurposed Structures - Better Desert Temples Compat Datapack"
-side = "both"
+side = "server"
 filename = "Repurposed_Structures-Better_Desert_Temples_v8-With_Small_Pyramids.zip"
 pin = true
 

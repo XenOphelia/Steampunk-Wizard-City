@@ -1,5 +1,5 @@
 name = "Repurposed Structures - Better Ocean Monuments Compat Datapack"
-side = "both"
+side = "server"
 filename = "Repurposed_Structures-Better_Monuments_v6-With_Original_Monuments.zip"
 pin = true
 

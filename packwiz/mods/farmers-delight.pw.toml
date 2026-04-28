@@ -1,7 +1,6 @@
 name = "Farmer's Delight"
 side = "both"
 filename = "FarmersDelight-1.20.1-1.2.11a.jar"
-pin = true
 
 [update.curseforge]
 file-id = 7953735

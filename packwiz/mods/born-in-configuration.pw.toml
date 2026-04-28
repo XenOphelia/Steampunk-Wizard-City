@@ -1,13 +1,12 @@
 name = "Born In Configuration"
-filename = "borninconfiguration-3.2[FORGE].jar"
-side = "both"
+side = "server"
+filename = "borninconfiguration-3.2.1[FORGE].jar"
+
+[update.curseforge]
+file-id = 8003015
+project-id = 1019091
 
 [download]
-hash-format = "sha1"
-hash = "70bb5d8a981aa34c90b3b0de9a29ae9ccd230e06"
 mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7986963
-project-id = 1019091
+hash-format = "sha1"
+hash = "ae874adb0d7085a8c8234d687c066dd798b72993"

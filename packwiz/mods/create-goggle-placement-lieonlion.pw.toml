@@ -1,13 +1,12 @@
 name = "Create: Goggle Placement"
+side = "client"
 filename = "CreateGogglePlacement-1.0.1+1.20.1-forge.jar"
-side = "both"
 
-[download]
-hash-format = "sha1"
-hash = "571ada365fdfa8d0715e5e6c9036eea45a086f18"
-mode = "metadata:curseforge"
-
-[update]
 [update.curseforge]
 file-id = 6202817
 project-id = 1201797
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "571ada365fdfa8d0715e5e6c9036eea45a086f18"

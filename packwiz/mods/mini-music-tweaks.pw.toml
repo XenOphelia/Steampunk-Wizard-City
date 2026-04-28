@@ -1,0 +1,12 @@
+name = "Mini Music Tweaks"
+side = "client"
+filename = "music_tweaks-forge-1.20.1-1.2.1.jar"
+
+[update.curseforge]
+file-id = 7942469
+project-id = 1496528
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "d76adcb402297df48782d0e3fecc013f57d770c3"

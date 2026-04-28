@@ -1,13 +1,12 @@
 name = "Better F3 Plus"
+side = "client"
 filename = "betterf3plus-1.20.1-1.0.jar"
-side = "both"
 
-[download]
-hash-format = "sha1"
-hash = "99e46e34dcbf75ab1981e0c60971fc38b208bb4d"
-mode = "metadata:curseforge"
-
-[update]
 [update.curseforge]
 file-id = 4600160
 project-id = 621529
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "99e46e34dcbf75ab1981e0c60971fc38b208bb4d"

@@ -1,13 +1,12 @@
 name = "Colorwheel"
+side = "client"
 filename = "colorwheel-forge-1.2.4+mc1.20.1.jar"
-side = "both"
 
-[download]
-hash-format = "sha1"
-hash = "121decb79e1e171a7dcf2e4bcae3c77023a4426f"
-mode = "metadata:curseforge"
-
-[update]
 [update.curseforge]
 file-id = 7965642
 project-id = 1254143
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "121decb79e1e171a7dcf2e4bcae3c77023a4426f"

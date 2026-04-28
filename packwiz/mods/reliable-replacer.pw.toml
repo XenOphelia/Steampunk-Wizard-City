@@ -1,0 +1,12 @@
+name = "Reliable Replacer"
+side = "server"
+filename = "reliable_replacer-forge-1.20.1-1.3.0.jar"
+
+[update.curseforge]
+file-id = 7694459
+project-id = 1450759
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "725a09ccda0ce5688b7b2d8bc6c4269b3f5ca6e9"

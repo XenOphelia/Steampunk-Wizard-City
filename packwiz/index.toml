@@ -10,14 +10,6 @@ file = "config/colorwheel-client.toml"
 hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
 
 [[files]]
-file = "config/entity_texture_features.json"
-hash = "1e2dc1913d802295d45faca7490bbce27ab69a7fb1ca410ee28ec7d3f7b4f47a"
-
-[[files]]
-file = "config/feywild-common.toml"
-hash = "caed0da152fa1c1a29d707b8980aada25168b8dbbbde485ea0fbd403a695e6a3"
-
-[[files]]
 file = "config/modpack-update-checker/config.json"
 hash = "1ff36516743184cc5359268b8970f49309dc73d606778e70e90c8739b5986e03"
 
@@ -36,17 +28,24 @@ hash = "91256ce0b503ca143f08ebc56b911f489f4ab13e139be9e3155ffe4b2f851044"
 metafile = true
 
 [[files]]
-file = "config/omegamute/soundmap.txt"
+file = "configureddefaults/config/AdvancedBackups.properties"
+hash = "8c837a4aa54999589e2bf7e293115873daa31fe138c932cc9e37744527230760"
+
+[[files]]
+file = "configureddefaults/config/entity_texture_features.json"
+hash = "1e2dc1913d802295d45faca7490bbce27ab69a7fb1ca410ee28ec7d3f7b4f47a"
+
+[[files]]
+file = "configureddefaults/config/feywild-common.toml"
+hash = "caed0da152fa1c1a29d707b8980aada25168b8dbbbde485ea0fbd403a695e6a3"
+
+[[files]]
+file = "configureddefaults/config/omegamute/soundmap.txt"
 hash = "e82220570be8531e8e19b90b4380215fc0f74db2b2e8741471f8a8584ecbd966"
 
 [[files]]
-file = "config/seamless_loading_screen.json"
+file = "configureddefaults/config/seamless_loading_screen.json"
 hash = "9cd8228d61889a6bed38e4fb2753d7451de9fdf90d37075a4b65688599c64ff6"
-preserve = true
-
-[[files]]
-file = "configureddefaults/config/AdvancedBackups.properties"
-hash = "8c837a4aa54999589e2bf7e293115873daa31fe138c932cc9e37744527230760"
 
 [[files]]
 file = "configureddefaults/config/xaero/minimap/client.cfg"

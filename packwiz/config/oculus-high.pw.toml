@@ -1,0 +1,12 @@
+name = "Oculus (Eye Candy)"
+filename = "oculus.properties"
+side = "client"
+
+[download]
+url = "file:///F:/Projects/Minecraft/Modpacks/Steampunk%20Wizard%20City/packwiz/config/oculus.properties"
+hash-format = "sha256"
+hash = "c58b960a052cc3bbc42fcb988096ee94831631f194ba81fd3b614bd6581ebf7e"
+
+[option]
+optional = true
+default = true

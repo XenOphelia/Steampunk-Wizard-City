@@ -3,7 +3,7 @@ side = "client"
 filename = "ComplementaryReimagined_r5.7.1.zip"
 
 [download]
-url = "https://github.com/XenOphelia/Steampunk-Wizard-City/raw/refs/heads/main/packwiz/shaderpacks/ComplementaryReimagined_r5.7.1%20+%20EuphoriaPatches_1.8.6.txt"
+url = "https://github.com/XenOphelia/Steampunk-Wizard-City/raw/refs/heads/main/packwiz/shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
 hash-format = "sha256"
 hash = "16dfd2b46fa31b52556ccda1eb8c317afcb13c38d4324d1fa5a93f39238274e3"
 

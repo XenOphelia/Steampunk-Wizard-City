@@ -6,6 +6,10 @@ hash = "79ed517529e6b47b46293dd68efe3c2bca970aafd0b2aadc65b99dbf8153be76"
 metafile = true
 
 [[files]]
+file = "config/colorwheel-client.toml"
+hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "1e2dc1913d802295d45faca7490bbce27ab69a7fb1ca410ee28ec7d3f7b4f47a"
 
@@ -30,6 +34,10 @@ metafile = true
 file = "config/oculus-low.pw.toml"
 hash = "91256ce0b503ca143f08ebc56b911f489f4ab13e139be9e3155ffe4b2f851044"
 metafile = true
+
+[[files]]
+file = "config/oculus.properties.low"
+hash = "8d898c63ef3d13b8cd79f89304c53b8586e47a57194f24e6179d8e69735122be"
 
 [[files]]
 file = "config/omegamute/soundmap.txt"
@@ -1975,8 +1983,24 @@ file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
 hash = "16dfd2b46fa31b52556ccda1eb8c317afcb13c38d4324d1fa5a93f39238274e3"
 
 [[files]]
-file = "shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip.txt"
-hash = "fdd6e3d8bd5afdd117b422fc14620988df3caa17a48d0b5f04c18ef027891740"
+file = "shaderpacks/complementary-reimagined-txt.pw.toml"
+hash = "1ddf95a35229d28dbe3b93c758aa63fc4e127a4f9e6a842145141d3d9aff2a6c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ef59bb500ba267722180dad849e35f7f6d5801fa0cea69ebcbee1b45ccb27e2a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders-txt.pw.toml"
+hash = "8b0b8098c9dfdbaa386342c251e6d0c7aaca56cec3f520142d08f651a51aa956"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "1727504640b8639ae97ba3221eea04e9ac8b3020348c4e900dfd44b597d58c96"
+metafile = true
 
 [[files]]
 file = "unsup.ini"

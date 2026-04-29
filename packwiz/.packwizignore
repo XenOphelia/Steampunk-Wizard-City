@@ -1,12 +1,8 @@
 unsup.toml
 packwiz.exe
 config/oculus.properties
-config/oculus.properties.low
-config/colorwheel-client.toml
-shaderpacks/complementary-reimagined.pw.toml
-shaderpacks/sildurs-vibrant-shaders.pw.toml
-shaderpacks/complementary-reimagined-txt.pw.toml
-shaderpacks/sildurs-vibrant-shaders-txt.pw.toml
+shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt
+shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip.txt
 PW-GUI.exe
 update.sh
 .unsup-state.json

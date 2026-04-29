@@ -3,7 +3,7 @@ filename = "oculus.properties"
 side = "client"
 
 [download]
-url = "file:///F:/Projects/Minecraft/Modpacks/Steampunk%20Wizard%20City/packwiz/config/oculus.properties.low"
+url = "https://github.com/XenOphelia/Steampunk-Wizard-City/raw/refs/heads/main/packwiz/config/oculus.properties.low"
 hash-format = "sha256"
 hash = "a9b44c53f5b1dde1d2cd318954d6027a36735bbc8a35aee9a6d8597f1f9b8a52"
 

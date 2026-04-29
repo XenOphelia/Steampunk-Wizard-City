@@ -1,0 +1,12 @@
+name = "Colorwheel fallback"
+filename = "oculus.properties"
+side = "client"
+
+[download]
+url = "https://github.com/XenOphelia/Steampunk-Wizard-City/raw/refs/heads/main/packwiz/config/colorwheel-client.toml"
+hash-format = "sha256"
+hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
+
+[option]
+optional = true
+default = true

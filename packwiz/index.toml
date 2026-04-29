@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/colorwheel-client.pw.toml"
+hash = "79ed517529e6b47b46293dd68efe3c2bca970aafd0b2aadc65b99dbf8153be76"
+metafile = true
+
+[[files]]
 file = "config/entity_texture_features.json"
 hash = "1e2dc1913d802295d45faca7490bbce27ab69a7fb1ca410ee28ec7d3f7b4f47a"
 
@@ -17,8 +22,14 @@ file = "config/modpack-update-checker/modpack-info.txt"
 hash = "cf776efc99eaa42114d75ad87a8e95a85412ffa18d070d3a3b8c8e57fe2baf55"
 
 [[files]]
-file = "config/oculus.properties"
-hash = "c58b960a052cc3bbc42fcb988096ee94831631f194ba81fd3b614bd6581ebf7e"
+file = "config/oculus-high.pw.toml"
+hash = "9e704df8ca9a5220d2cc9b1a6041b2859955aefdd97b42aa74aac7a2ddcc8199"
+metafile = true
+
+[[files]]
+file = "config/oculus-low.pw.toml"
+hash = "91256ce0b503ca143f08ebc56b911f489f4ab13e139be9e3155ffe4b2f851044"
+metafile = true
 
 [[files]]
 file = "config/omegamute/soundmap.txt"
@@ -47,17 +58,17 @@ hash = "05aa12e7e89f8b32f6d88e82c722a3ec2515090153225f43335dd5b7d8acd205"
 
 [[files]]
 file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
-hash = "f0391dd3578183df6af990bac5a92448f181c3df2e5fe2803f6c4ad3d82e424b"
+hash = "2e64c9a478400407cbb5c95203503d81cb57dfb0bdec833ad59a4bd137c51675"
 metafile = true
 
 [[files]]
 file = "datapacks/integrated-villages-configuration.pw.toml"
-hash = "d926880be6f6583daefde0016837f59bc412295f97545d7685ea0d2eeefbbaae"
+hash = "264ff073773e7417bab8a4eb2f8fc2056e18528bf69b516ffd9e237898fc6286"
 metafile = true
 
 [[files]]
 file = "datapacks/repurposed-structures-create-dynamic-village.pw.toml"
-hash = "197827ef33b926b76d6998138856afd315a16d31b2d9d87ffa2ac1ef664b0237"
+hash = "cc7e8c422049bb4c068b69665103324d5812e9b34c4da89939260bb6970be6df"
 metafile = true
 
 [[files]]
@@ -240,11 +251,6 @@ hash = "3aa72d52dc04e1eda361bb8e6413f2d6d8bc842a70d4a9d0f072c82cf5dfb552"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "339722116bed9bacf4f307b4e2883e11b5743ad50f723a9596c6d1924220732e"
-metafile = true
-
-[[files]]
 file = "mods/block-swap.pw.toml"
 hash = "1d093db0add8486b407b1323d2add62c1710469922722ec2531f78ef667ec259"
 metafile = true
@@ -311,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0eb82b65ae76a32b2a9bd6b19b2b51dc6cdfdf15e3b69ee881594dc7eaf03ba4"
+hash = "7ae1c3076f14465e7c35ab4493da2f7f7af99f2096f0144f38834da56584d190"
 metafile = true
 
 [[files]]
@@ -360,8 +366,13 @@ hash = "5d1210ecd8af6eb50c34c5d342c5913f1a7a607ab7029b12b5ee891d1532f8f2"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "fe04d5d843cdb5f72892678ada88360fa99140165cdbaa5adfaeb9ed1b2872ac"
+metafile = true
+
+[[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "fc4a8eca8a248d7a1e487f75f45f0a111b3c488a4de8a6853bcd83099994795a"
+hash = "8d040b4e836259b937f8609eb6b00af40762e3af189b1283da7e841df221e64c"
 metafile = true
 
 [[files]]
@@ -476,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-confectionery.pw.toml"
-hash = "7f98e3461e1319ef01a91a8258aa2d932179d0406280d980b356ddbfbef52213"
+hash = "febcfddd76c54c22463f5e69de5d0ace43121d369324e4b13a6b321834e53d05"
 metafile = true
 
 [[files]]
@@ -551,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "fada8381b7fd0549a1b6758c0faea1a763481969b8aeb4e36d0b5256f79d91cd"
+hash = "511aec5a2a47ee56861e2b7385e1e899f3a31f3c12aadb908083f8cbfd2e53c0"
 metafile = true
 
 [[files]]
@@ -691,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "0228de74e9e7e3faf87e3ba7c68900c99061481a94558d7794ba3f9ee5de06d5"
+hash = "e76072e41365e5027d84467536a4aa6bc10068d092e18873a8e98e126bf72f38"
 metafile = true
 
 [[files]]
@@ -716,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "495c3c08849fc98d255f68d61eeffc9b7758c390603278658646ff97de7b4939"
+hash = "9bd9239e8d70a367c41b9d3d93f7328916123ec418776555db8d0a7ac63d811a"
 metafile = true
 
 [[files]]
@@ -741,12 +752,12 @@ metafile = true
 
 [[files]]
 file = "mods/formations-nether.pw.toml"
-hash = "1aaf47b147d7f75476840190431e6e249aaf0fddf302dbbed7757950edd0e3b2"
+hash = "04e3cd9015fb04e34bf97e1d9943c1631cf8544170534151d1f11cdea00da521"
 metafile = true
 
 [[files]]
 file = "mods/formations.pw.toml"
-hash = "3f7eafcc6c789ddc7d242a0da06431ab6cb8fe7328f6d715698e94690fc66c30"
+hash = "35bb459ce79c727b67b087043b3db035cd3d3f708b1bd7fe2901433aad3f3152"
 metafile = true
 
 [[files]]
@@ -846,12 +857,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-ui.pw.toml"
-hash = "7c9085400895486f6ffcd02e61ff88db4db78a8c26bfb364bf9985ed0fa78456"
+hash = "d9cb28d00fb2741cda97a1a5ef658798998fe057de23272f07711e62f0619ef0"
 metafile = true
 
 [[files]]
 file = "mods/immersivemc.pw.toml"
-hash = "1efb284b616086b857854448a996aa6cff4989ba544a62fb4a45eb8a65650e0e"
+hash = "bd07e1c66d711091f7ebbd92aa22306165511d3e094c525bfb202bb4b8f16803"
 metafile = true
 
 [[files]]
@@ -1015,6 +1026,11 @@ hash = "b9e63618f4d67abb2129ed5b09fbb2c4d993c6801d84e104dd4e201dab9cf18a"
 metafile = true
 
 [[files]]
+file = "mods/leawind-third-person.pw.toml"
+hash = "f00b8c3ff7da071df15668cf10695c4e703a78ef3d24d23955d5eca53fa2693d"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
 hash = "e8b5edad07fc7a8253c765b018a0b760cdff4179da31c62ae33bfd48b019e97a"
 metafile = true
@@ -1076,42 +1092,42 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations-better-archeology.pw.toml"
-hash = "42f2613de03916b8d8952aafcec462358cdf8feecf416c5565e6ff5b73e458dd"
+hash = "8238f00c607838c64d6a7702032faae87cfdeb63d8d7c167b671e701278fac5d"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations-born-in-chaos.pw.toml"
-hash = "3dbe55b8a85622e79ed828ae6db9a923e185de57b28516438b23054cf2d1cfb6"
+hash = "4393e9ffbf1470ec9bd9046ed3436bf3174e08f8f7793dbf56b30138b9b4097f"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations-bygone-nether-it-takes-a-pillage.pw.toml"
-hash = "439d6233cb8aeaa6f4d91d6115b4fa743cf94d318c113f137e2da1220b57ca2f"
+hash = "0b668cccb96a699daf3588fc14084d1404026db186c8a9ac2aa0f6e5110a1135"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations-formations-overworld-nether.pw.toml"
-hash = "cec11d5821b40453d6c2432c96a24ea5e97370f67b11ca41f77587278f8a8c7a"
+hash = "2a046ef8f202857283324c2a5ffa91065977817ebfd79ca1c15e5dfcda537772"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations-integrated-dungeons-villages.pw.toml"
-hash = "bd19d8fb0e99efbee9cf3e665e018613f06591ae98fe52bbc663d31ff7060a7d"
+hash = "28867cf5a4a554700fba9c66a257cf4fd66651661682e982547d0db2d5cdccaf"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations-towns-and-towers.pw.toml"
-hash = "fa76201e43d8c6283abde35c6278e3dc56addc75c6c5d2d21998b96422b47c6e"
+hash = "0b7c7c3f0dcd8a59cada5fef537e974f68dc35fa4d6da0e4834a3f551cc8a251"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations-when-dungeons-arise.pw.toml"
-hash = "40e50abb45767d81495672607c9ec2bc8cc1b3b736ad13c0238a68130c5d9a3a"
+hash = "075dbcaabe73d31f862e0fcbe0c024ab8762e70b3c06c58e9c8df9f26616ae0b"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "0d93fb45f6fe126193db7e59bd23cd63b0bfb7beba19cabd56e7604e997fab9b"
+hash = "3bff2545de3ac8c00defa97fe0326d0eed855a30199495069af8a2b0066de684"
 metafile = true
 
 [[files]]
@@ -1380,11 +1396,6 @@ hash = "b43de327ca8cd9e6fa2124dcec93886a0c01dafb700a321ef7fed8c3f184d86d"
 metafile = true
 
 [[files]]
-file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
-metafile = true
-
-[[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "a2eeb3d910f5f701e8768f3ac4591f9617a40fe7f948150835c82d1ac6aaa5df"
 metafile = true
@@ -1411,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "46c243ccf2f4833c4c9f45e52b47bd21c8bbb3a7c8548fe23c62edfc9cac4232"
+hash = "9f1a5b208607c1e8f45af951dd95dc9591901864bd2637b758a41daa7a03a714"
 metafile = true
 
 [[files]]
@@ -1585,6 +1596,11 @@ hash = "d8a1b9a0f9a0c7d1f5bf35aa1f9841e00b172fdc2ce259f91c4c3dc1045bf654"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "2e42d0a7b8d4b7136e3b1c183ffbb256267448b93e724a8275360d1d766eaac7"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
@@ -1616,7 +1632,7 @@ metafile = true
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
-hash = "59e99cbe7102094d92c0a375bd6f6f485426e2e1b5d5d92120c7758b7d9a3e42"
+hash = "4672d238273a0fb8136d481d04b7a325ee8cb3e5e6c3c65e86f20adfa535ff37"
 metafile = true
 
 [[files]]
@@ -1651,7 +1667,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "f47d5f028ea626c0a4bec77e5d2c006490f772c1bac8aed188df0f0398b9aa09"
+hash = "e7ab1ee986a2390a20fa71e980ec239b1bf73bc1a981f2668416e125fff0a9e3"
 metafile = true
 
 [[files]]
@@ -1761,12 +1777,12 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
-hash = "4be15db0ebdfd6ef751f4c3a08fafefd8284f14500ee2f4777db72606209756c"
+hash = "6414958194d4cad2e27db5e30073e5dd088dfed18f44d8ad8972d9be15e4c247"
 metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "e677a67b1b847dc5c97791fb789c66f22135773b95726870b8946bce3cbe9c9c"
+hash = "d16598c7bd2f064205cb21b33e5923365801af800e219d0253438c393e23bdbb"
 metafile = true
 
 [[files]]
@@ -1801,7 +1817,7 @@ metafile = true
 
 [[files]]
 file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
-hash = "50255234eddb43ebf154a6163e2b50788ac1ee4183443fbdd94de7fa77cfbd06"
+hash = "460a99de57745d08aecc580557c7e91ca85100c7b9489818407f05362a385af1"
 metafile = true
 
 [[files]]
@@ -1811,57 +1827,57 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
-hash = "3497fd49db9d6dac3b6ddaa0eb2b3457efe45388cb651c4b3f254391d80f1810"
+hash = "48005c21fa325a05b446c1ca4dd52025b6d3648a2bc933a6a3427d5c20ce857f"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "db6b76008c4c49dfdd116efa27abc8e3c7266dc986755d0d4fab82d0dc332c8c"
+hash = "07ef3aabd144e9bac3cf91eaada386a530dbf74713a810d69ca6c80510e7e6b3"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "f015f513a8e1c093a9be9bae8eb36a0244b7199b01c3b6a11c6b6e62f1f5514c"
+hash = "2143da0e753f67d6d534cd0bb346a5346b39e46db52214b727b68661125f416f"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "f93db7cdc2146e6c1b5db539cfc61d6e2f41c236d5c9fbb1b1a95f7e774a07b9"
+hash = "eb635063de8dbb227e602c23dd209ba4bdfeb60b27445d352e1591e221675ce4"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "cd80262e96fbfd6a416d70dc4e5e65da6a591492011cff0d608226e1f423ca7c"
+hash = "d6393c6a7196c383ed8ddd6e92e33be514f8f0de42642d69801e7ee8d782260d"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
-hash = "1eb9518c9afbc2d2db394d667c21e310964b03d768df8490e7fd657e702e2673"
+hash = "db9a30be1b3bcb86febe59d9787fc304ad7e2c67fd8ecf76c30fb0c2495c4033"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "9bd8f26651e31c337ba7d67e84fd85f18c4cb73bf9711a3ac5bce6bf79fa2912"
+hash = "00dbed8444081f0443e0bf13f1624c85d9a362751b2d29e7f20cfdee48e7bb88"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "fd48beb4bc5f6761852f1fd5767a6d61e37a44403d075cde7c263ce5943b608f"
+hash = "a35cb18562ec2232e0491d3337ffb87a2063754235eb5b3c1d8b7db4b9a45e8d"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "3a1d559e488a93a629744ef89735f429ea6a3a935469792b9cccb563e6100403"
+hash = "9ac8a71416dc67f8ecfb6abae47fc0d697a1dc95c4fdd4297ec3b4f45fa505cc"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "c616d38651c6851c80780bb12a01a73432819a36001ee524add4054b5315c77c"
+hash = "80a1b4b6d582077d7b5d283c5821103535b6e01961a9c46c56c8a41c8b5506a0"
 metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
-hash = "6349337710ad9208dff48a20f54ae754a9e6db2bcbcba448752b164558de0811"
+hash = "86bac6765fa0166a5363dab3977cb89510058a023e8546e5bf1111f509c57ad8"
 metafile = true
 
 [[files]]
@@ -1881,98 +1897,87 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/idas-alexs-mobs.pw.toml"
-hash = "a220774f546c7e74d03cbf691c972bcb5e0091e2fe64dd5ee678ea51fca42255"
+hash = "417a9f3a938b8b54a137f31f8b4cace36d35c4ff3d92b83aaaea74809e1aa924"
 metafile = true
 
 [[files]]
 file = "resourcepacks/idas-config.pw.toml"
-hash = "c8cb52cb6fbd956d98ee48303a9b244f8450627b8c58f872aac8c15b937844a7"
+hash = "60f7c696e263a28d4bd5b7ea266c95e0712b825a5329527cf8107c9f408c5ec3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/integrated-stronghold-alexs-mobs-integration.pw.toml"
-hash = "35de37857e9217544e49243947a1f0e8675336c8563c567efa4ab33124fe654f"
+hash = "ebd870b178554afbd5d1af6bb0e5ca88fe7f2a58d353a2e76e07f18fc2a3dfc0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/integrated-stronghold-config.pw.toml"
-hash = "05b14d0aca03d1af09ce3f10ea2d3ab9e319ef9251ada55a9c3a6dac28085441"
+hash = "b02258fa1e65953bbb266086125af74e2a8cce58326bf3cd8a259e8413d4a1c8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-desert-temples-compat.pw.toml"
-hash = "0e45c2211f89b61c7bd7a29abfa5973e05cc12fe8150640ccf797676513659a7"
+hash = "86a658cf405ada361f83c94cd986534c5b82bd1dfdeb35a82b027d40b1ba09c3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-dungeons-datapack.pw.toml"
-hash = "8ae81dd351c7b43f5a9951415683fe6ef3a3acd88e951f01dc041bae94d5b830"
+hash = "be0ff41595fa6ad17590ec57a10e817d04906d3105aec2cab3a4cd9f76aae3ce"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-jungle-temples-compat.pw.toml"
-hash = "4345682a7a488e9137a6fcdc7e01f9641865aaa7cb0f9104e8d50be88d885245"
+hash = "02d1af787f3583cc15caf84f2967e15f8eeb577cb6bb973efc40746818e8e064"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-nether-fortress.pw.toml"
-hash = "2e8305d53765ead1b7a804b7686a6d7c515719b661c39756440a160064b5cb47"
+hash = "3160aa71bdcecc375f1a731c01480d1a76485409b9c99345a5977200d2f82098"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-ocean-monuments.pw.toml"
-hash = "2bedcb5ec549823bb08d0dfe2bcb92d13df923e71ecec1ae0f529baa854932dc"
+hash = "9c2a485925f97ce1caec929b0b32c7a5f56a436f19b2ead4c442c35c4fb160e7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-better-strongholds-datapack.pw.toml"
-hash = "f73172b859c923b9147cf094cfb81f4308175528d5befc34b1fe294972f3c97d"
+hash = "069727a61714e89bc2750832f53ee1316f3974bf2d883a74b17a620daecb9848"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-bygone-nether-compat.pw.toml"
-hash = "86aae3424d66067aaaa6f799b74ce41e95cd539dd1964e7a3cbaf8316c73ae46"
+hash = "7187c45ee7c61f358d234cbf5d58ddaa26a072f61f340dd98d9d5be41feb1420"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-domestication-innovation.pw.toml"
-hash = "7d46048838dfded2b77eac79ff4ea1b31edf08ff6ec3ef5df683e8d594a13c91"
+hash = "70f4298ac63509ee96257ea32528b6e1e8f0812d9f682eba8ac492a363edd5b5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-farmers-delight-datapack.pw.toml"
-hash = "3b8f5c5240d28ad25c1d085760f02c36b14dcb65ad686a8337f01bf2f32d566c"
+hash = "5768c9e2ad5e22a128f4f403f85a27da19c1fc04d0d84f16db5622260970980f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-hexerei-datapack-compat.pw.toml"
-hash = "a3161eb4fefd74666d5391e4e8d9253056666ef6d7c7638470a678d3fe5859eb"
+hash = "1490e45f886719eb2e304389be7f696132460d4dfb20888b11fd00329bd36c4f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/repurposed-structures-irons-spells-n-spellbooks.pw.toml"
-hash = "af849cc71e480291c2e80ad01af64f4af883066d92b9d8316ede244679543394"
+hash = "ac5eaa7af4d358bb3811d39cd79924807d68ebef6ac25d46f0b90e1efc4d1c01"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.4.zip.txt"
-hash = "00a07c89dedf28916c9e8bc89b7b2ec35318b4dfd17b6c31ed651be7614718f9"
+file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+hash = "16dfd2b46fa31b52556ccda1eb8c317afcb13c38d4324d1fa5a93f39238274e3"
 
 [[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "c384d1c117331920a44021339b534c9129286b78ccdf54cda7a41a3ce75529e4"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
-metafile = true
-
-[[files]]
-file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
-hash = "7d6026d384fcb8afd7f71cda6832828b3c9f2b15e788c89a2c6770d98ac80619"
-metafile = true
+file = "shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip.txt"
+hash = "fdd6e3d8bd5afdd117b422fc14620988df3caa17a48d0b5f04c18ef027891740"
 
 [[files]]
 file = "unsup.ini"
-hash = "536c91ca70a85c4824b1a986c75a855c37500736ec49bde155340a74aaf13f23"
+hash = "b12dafd81192a01bf89c22ca34ec2bc5588b8da4de16d2dcaed9f3d44d14e0f0"

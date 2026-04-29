@@ -1,5 +1,5 @@
 name = "YUNG's Better Mineshafts (Forge/NeoForge)"
-side = "server"
+side = "both"
 filename = "YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 389665
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "e2cbc574807a994bb9610184eb4bbfe29a6c0774"
+
+[option]
+optional = true

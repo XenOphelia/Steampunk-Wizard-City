@@ -1,5 +1,5 @@
 name = "Loot Integrations: Bygone Nether & Eternal Nether & It Takes a Pillage"
-side = "server"
+side = "both"
 filename = "lootintegrations_lootintegrations_bygonepillage-1.2.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 1133600
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "5e8ccc101bd391fbb283ad111be9f68c93d3352a"
+
+[option]
+optional = true

@@ -1,5 +1,5 @@
 name = "Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm"
-side = "server"
+side = "both"
 filename = "lootintegrations_integrated-1.5.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 1149272
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "12c262276385db1dc3188fbcb1aedff15550208b"
+
+[option]
+optional = true

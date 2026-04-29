@@ -1,5 +1,5 @@
 name = "YUNG's Better Witch Huts (Forge/NeoForge)"
-side = "server"
+side = "both"
 filename = "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 631401
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "71fee574f920c6b05004f100ba07e9b8d5844169"
+
+[option]
+optional = true

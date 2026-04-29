@@ -1,5 +1,5 @@
 name = "Loot Integrations: When Dungeons Arise & Co"
-side = "server"
+side = "both"
 filename = "lootintegration_wda-1.8.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 1142880
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "d5b8cd7712e9c6db2202b77e3ce3c115640b8395"
+
+[option]
+optional = true

@@ -1,5 +1,5 @@
 name = "Towns and Towers"
-side = "server"
+side = "both"
 filename = "Towns-and-Towers-1.12-Fabric+Forge.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 626761
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "5a28ec56457cf1bf154e993cf73dba0428a7921b"
+
+[option]
+optional = true

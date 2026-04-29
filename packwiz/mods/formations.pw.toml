@@ -1,5 +1,5 @@
 name = "Formations (Structure Library)"
-side = "server"
+side = "both"
 filename = "formations-1.0.4-forge-mc1.20.2.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 915115
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "110c95382a63c9ed4eb76125bc2fed09cac6d905"
+
+[option]
+optional = true

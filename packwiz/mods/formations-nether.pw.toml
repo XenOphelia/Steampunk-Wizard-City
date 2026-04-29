@@ -1,5 +1,5 @@
 name = "Formations Nether"
-side = "server"
+side = "both"
 filename = "formationsnether-1.0.5.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 918840
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "5a6371db683b4d33f5034f7d192424cfe73ea05f"
+
+[option]
+optional = true

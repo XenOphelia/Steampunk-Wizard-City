@@ -1,5 +1,5 @@
 name = "YUNG's Better Desert Temples (Forge/NeoForge)"
-side = "server"
+side = "both"
 filename = "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 631016
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "31b386b2dbaa4933e0a10ccdfb25f56da16931a6"
+
+[option]
+optional = true

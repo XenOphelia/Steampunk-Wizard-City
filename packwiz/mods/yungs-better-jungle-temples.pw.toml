@@ -1,5 +1,5 @@
 name = "YUNG's Better Jungle Temples (Forge/NeoForge)"
-side = "server"
+side = "both"
 filename = "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 897669
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "0b3c8556983895fea980247bb4d437ca535e7259"
+
+[option]
+optional = true

@@ -10,3 +10,7 @@ project-id = 915902
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "227a3da7e002b6d153d500a6d180dd9ce02618bf"
+
+[option]
+optional = true
+default = true

@@ -1,5 +1,5 @@
 name = "YUNG's Bridges (Forge/NeoForge)"
-side = "server"
+side = "both"
 filename = "YungsBridges-1.20-Forge-4.0.3.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 536660
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "88467fe87b95e6cf7a432822033cf74dd8586254"
+
+[option]
+optional = true

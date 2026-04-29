@@ -1,5 +1,5 @@
 name = "When Dungeons Arise - Seven Seas"
-side = "server"
+side = "both"
 filename = "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 953637
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "0390b912cc5534bbe0f01853337d777453ca08de"
+
+[option]
+optional = true

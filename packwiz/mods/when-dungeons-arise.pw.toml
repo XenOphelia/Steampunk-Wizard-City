@@ -1,5 +1,5 @@
 name = "When Dungeons Arise - Forge!"
-side = "server"
+side = "both"
 filename = "DungeonsArise-1.20.x-2.1.58-release.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 442508
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5"
+
+[option]
+optional = true

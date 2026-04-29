@@ -1,5 +1,5 @@
 name = "YUNG's Better Nether Fortresses (Forge/NeoForge)"
-side = "server"
+side = "both"
 filename = "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 817651
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "889cd16a93764d1d6af2e2dda5bbc286a2683e7a"
+
+[option]
+optional = true

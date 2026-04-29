@@ -1,5 +1,5 @@
 name = "Loot Integrations"
-side = "server"
+side = "both"
 filename = "lootintegrations-1.20.1-4.7.jar"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 580689
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "2aa541075b8e13480db4a8021482fbffb2132337"
+
+[option]
+optional = true

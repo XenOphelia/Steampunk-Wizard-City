@@ -5,11 +5,11 @@ side = "client"
 [[flavor_groups.visual_quality.choices]]
 id = "eye_candy"
 name = "Eye Candy"
-description = "Higher default settings, for all the beauty!\n<br />Installs:<ul><li>Shaders</li><li>Various small visual upgrades</li><li>Extra UI additions</li></ul>"
+description = "Higher default settings, for all the beauty!\n\nInstalls:\n<ul><li>Shaders</li><li>Various small visual upgrades</li><li>Extra UI additions</li></ul>"
 [[flavor_groups.visual_quality.choices]]
 id = "vr"
 name = "Better for VR"
-description = "Lower default settings to make VR run smoother, while also keeping visual quality high\n<br />Installs:<ul><li>Shaders</li><li>Various small visual upgrades</li><li>Extra UI additions</li></ul>"
+description = "Lower default settings to make VR run smoother, while also keeping visual quality high\n\nInstalls:\n<ul><li>Shaders</li><li>Various small visual upgrades</li><li>Extra UI additions</li></ul>"
 [[flavor_groups.visual_quality.choices]]
 id = "potato"
 name = "Potato"

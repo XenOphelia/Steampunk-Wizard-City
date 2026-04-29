@@ -1,0 +1,14 @@
+unsup.toml
+packwiz.exe
+config/oculus.properties
+config/oculus.properties.low
+config/colorwheel-client.toml
+shaderpacks/complementary-reimagined.pw.toml
+shaderpacks/sildurs-vibrant-shaders.pw.toml
+shaderpacks/complementary-reimagined-txt.pw.toml
+shaderpacks/sildurs-vibrant-shaders-txt.pw.toml
+PW-GUI.exe
+update.sh
+.unsup-state.json
+.gitmodules
+.git

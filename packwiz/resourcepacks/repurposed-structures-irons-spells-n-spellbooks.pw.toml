@@ -1,5 +1,5 @@
 name = "Repurposed Structures - Iron's Spells 'n Spellbooks Compat Datapack"
-side = "server"
+side = "both"
 filename = "Repurposed_Structures-Irons_Spells_n_Spellbooks_v2.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 968937
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "d4a982deec36e986d6f67144e4acdc7d2ef82c98"
+
+[option]
+optional = true

@@ -1,5 +1,5 @@
 name = "Repurposed Structures - Farmer's Delight Compat Datapack"
-side = "server"
+side = "both"
 filename = "Repurposed_Structures-Farmers_Delight_v6.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 554331
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "e170a7c6bd54bf0d663f1db50c233f1c6918069d"
+
+[option]
+optional = true

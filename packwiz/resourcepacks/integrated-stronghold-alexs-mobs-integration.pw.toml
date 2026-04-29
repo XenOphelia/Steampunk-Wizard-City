@@ -1,5 +1,5 @@
 name = "Integrated Stronghold- Alex's Mobs Integration"
-side = "server"
+side = "both"
 filename = "intstrong_alexsmobs-1.0.0-1.20.1.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 831900
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "7a1d0d8bb2e43535df2136dfe97f091641c5d2a4"
+
+[option]
+optional = true

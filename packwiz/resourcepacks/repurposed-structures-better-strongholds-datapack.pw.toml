@@ -1,5 +1,5 @@
 name = "Repurposed Structures - Better Strongholds Compat Datapack"
-side = "server"
+side = "both"
 filename = "Repurposed_Structures-Better_Strongholds_v5.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 547822
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "8fdd9470c6ba56768f708241480dd6de36d3c53a"
+
+[option]
+optional = true

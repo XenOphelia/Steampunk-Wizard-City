@@ -1,5 +1,5 @@
 name = "Repurposed Structures - Better Jungle Temples Compat"
-side = "server"
+side = "both"
 filename = "Repurposed_Structures-Better_Jungle_Temples_v6.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 917314
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "0b8d7d3b18eaa056593f4ecd6776c3e8c25110d4"
+
+[option]
+optional = true

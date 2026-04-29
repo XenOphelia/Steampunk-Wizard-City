@@ -1,5 +1,5 @@
 name = "Integrated Stronghold- Configuration"
-side = "server"
+side = "both"
 filename = "integrated_stronghold_config_forge-1.1.1-1.20.1.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 833654
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "90d185f9ee53b36294b18065315b09c127332ab8"
+
+[option]
+optional = true

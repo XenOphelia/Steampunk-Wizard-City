@@ -1,5 +1,5 @@
 name = "Integrated Dungeons and Structures- Configuration Datapack"
-side = "server"
+side = "both"
 filename = "idasconfig-1.13.0-1.20.1.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 663108
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "efdbabf45418dfb7846625b3831ccd4748fe6d7e"
+
+[option]
+optional = true

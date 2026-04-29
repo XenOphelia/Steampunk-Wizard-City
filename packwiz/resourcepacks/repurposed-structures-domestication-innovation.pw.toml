@@ -1,5 +1,5 @@
 name = "Repurposed Structures - Domestication Innovation Compat Datapack"
-side = "server"
+side = "both"
 filename = "Repurposed_Structures-Domestication_Innovation_v4.zip"
 
 [update.curseforge]
@@ -10,3 +10,6 @@ project-id = 652685
 mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "a0a43353825fafd22c99fe9d6c6283e6dca78078"
+
+[option]
+optional = true

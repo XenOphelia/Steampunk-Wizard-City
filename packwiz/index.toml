@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "config/oculus-low.pw.toml"
-hash = "91256ce0b503ca143f08ebc56b911f489f4ab13e139be9e3155ffe4b2f851044"
+hash = "1ab69db1e3ddaec655841740b63fbca674e47c5684210cebbe056aceaff21153"
 metafile = true
 
 [[files]]

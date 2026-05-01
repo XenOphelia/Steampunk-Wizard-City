@@ -1184,11 +1184,6 @@ hash = "893b3e91c2165e5b3d7950ad543d6898bd3d50b7bfa411352ab0c60447c9e8e3"
 metafile = true
 
 [[files]]
-file = "mods/mini-music-tweaks.pw.toml"
-hash = "46fc30ad369eb47866abc6ab6c35fb56fa2c92b3f450bc9d67a0aab0bdf4d4fe"
-metafile = true
-
-[[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "3d4bf19eb44ce94b5b59e47aa1eb9d524712354400bbfe7485f342d1a1e19bbf"
 metafile = true

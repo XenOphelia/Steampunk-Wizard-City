@@ -10,6 +10,10 @@ file = "config/colorwheel-client.toml"
 hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
 
 [[files]]
+file = "config/mantle-client.toml"
+hash = "c390daa14dea3ec18a1b2a0c15de43d4a3c249f8359aaa32bd6d482bc4aaafea"
+
+[[files]]
 file = "config/modpack-update-checker/config.json"
 hash = "1ff36516743184cc5359268b8970f49309dc73d606778e70e90c8739b5986e03"
 

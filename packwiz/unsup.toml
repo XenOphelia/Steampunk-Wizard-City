@@ -8,7 +8,7 @@ name = "Eye Candy"
 description = "Higher default settings, for all the beauty!\n<ul><li>Shaders</li><li>Various small visual upgrades</li><li>Extra UI additions</li></ul>"
 [[flavor_groups.visual_quality.choices]]
 id = "vr"
-name = "Better for VR"
+name = "VR"
 description = "Lower default settings to make VR run smoother, while also keeping visual quality high\n<ul><li>Shaders</li><li>Various small visual upgrades</li><li>Extra UI additions</li></ul>"
 [[flavor_groups.visual_quality.choices]]
 id = "potato"

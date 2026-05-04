@@ -1699,7 +1699,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
-hash = "a982374f5c79d51cfdc24c3d59221bdc30a2f4da663703960326b7332c03f374"
+hash = "b5a38b88f788a698c01674e27c8c671ee353a02fc9445bb653dd72c23cc04e63"
 metafile = true
 
 [[files]]

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "de200177dde2a1fe03f6db2bf8c6d527f0be44d86d5a866f168d77387cd06b2b"
+
+[[files]]
 file = "config/botania-client.toml"
 hash = "48f301496789c955b5c70d8e071f330941e170bec67b197b428466cb11c780b1"
 

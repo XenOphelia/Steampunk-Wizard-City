@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/botania-client.toml"
+hash = "48f301496789c955b5c70d8e071f330941e170bec67b197b428466cb11c780b1"
+
+[[files]]
 file = "config/colorwheel-client.pw.toml"
 hash = "79ed517529e6b47b46293dd68efe3c2bca970aafd0b2aadc65b99dbf8153be76"
 metafile = true

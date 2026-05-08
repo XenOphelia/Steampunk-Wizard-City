@@ -1991,10 +1991,6 @@ hash = "ac5eaa7af4d358bb3811d39cd79924807d68ebef6ac25d46f0b90e1efc4d1c01"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6 + Supplemental Patches.txt"
-hash = "e6447497125d5627d46a0a3ea75f26b2df1c3d3e046aee5e54d7d8ca2e42c61f"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
 hash = "16dfd2b46fa31b52556ccda1eb8c317afcb13c38d4324d1fa5a93f39238274e3"
 
@@ -2010,4 +2006,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "3778f8df8d7c8ef6ae9a41724a99f9bd060ffbdb77111015b49c0a0980a4724c"
+hash = "577ac428583df092fe617ae5d2db57787e63e8ea9619e7fc6f686ac06c12a6fa"

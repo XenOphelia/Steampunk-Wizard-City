@@ -101,6 +101,11 @@ hash = "760b9fc6688b0f2caed2dfa42fe41862c72c81e361deb5a73a5c7fa200873e7d"
 metafile = true
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "2988e3c4357f8db3f6e7cd75452bcc6d67d05c84d52065cf15f1560c37b0b052"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "cbc8db716459ff5804441400382314acc303919f6357ec09c708e4cb75efe9cc"
 metafile = true
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveaus-flavors-delight.pw.toml"
-hash = "0ea5804e9e763c2c28864bb795a7daf934769f49b4fd12474f9d9375d0c26d17"
+hash = "1de1a16ca5e54b0d493684c97948c6bc06a107c8115192ed43e70207c8344775"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "70d3ae93a9064f6885d57fc2adece2ea0f03dcc8f3077a08bb3aedf9c59630ce"
+hash = "644ea1bee5a7b86432958c7f26ee9f58653e82a49e2b51ee367153d57a1afaf4"
 metafile = true
 
 [[files]]
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
+hash = "81926d253de0a8ff9520fb51a5b34394a020cd56c2a063e71ce4187d9b33e891"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "d43effaaacb7f81aca0b6c1cf394870c0899146cfb96d9925386ecc2ecf201f4"
+hash = "e9418858499847188003986d3f855f0b136410d7187730f4a63d4b7e295976f4"
 metafile = true
 
 [[files]]
@@ -662,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "572ddb2982c9d493fbe888e2877aac3d6deab26f17a3e3ccb6862dba6afb3e27"
 metafile = true
 
 [[files]]
@@ -693,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "3c9b37d3371ba98daf46062789f9ac721e8dadd0d9e01b5cc52be4ed07379f9d"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-shader-support.pw.toml"
+hash = "4c51828c52ea4caa61866d534f7621c61fef29656cd85852364ffcc447bcb0ab"
 metafile = true
 
 [[files]]
@@ -1142,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "3bff2545de3ac8c00defa97fe0326d0eed855a30199495069af8a2b0066de684"
+hash = "99f84434c522426f1151830a86dc02b5988395b276c278f441369013a6a71c93"
 metafile = true
 
 [[files]]
@@ -1181,6 +1191,11 @@ hash = "69bf431cd443f822b3d82a9cc9515c5e708e18dcbe0339958132ee4b3e9b7c80"
 metafile = true
 
 [[files]]
+file = "mods/mclo-gs.pw.toml"
+hash = "dfb5f8469d962cf2cffbf71d0c91c707f8b3f4e961bcb0cdcb3ea2f8d44e3f4a"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
@@ -1202,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8a015567c1e3fbfdb8b2b35721dd83a9e98534029e8c03c02ff4028f4e1c0502"
+hash = "fcb27d111bee02677bd43a57680fda0b592487a492174dc3b07833cf5b2180b2"
 metafile = true
 
 [[files]]
@@ -1302,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "24d5048e1c7d6bdf8511bf53a7660218f2f62d6e6c2df35d234b6bff0cf51daa"
+hash = "de9ebb1ed64205c1d95e6269d714f6171f4d43a30210ab514c8f169faf9b5354"
 metafile = true
 
 [[files]]
@@ -1477,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f6e5552989f40475dafca9bed23b26e7948bcbfc8dcab1b5d60ba14f99dbac69"
+hash = "7e91d696b14e06ae9ac40bf457680b92f0ad2c28582ab539634d3d5e77f89461"
 metafile = true
 
 [[files]]
@@ -1542,7 +1557,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "489547c08f9ac45d6aee0579aaf888c83e9f7820fc6233c701af697411cba370"
+hash = "d3b4b825d2a5bb49bd6b7d84b84486c8783f7babef75f8685197e133827cf6ae"
 metafile = true
 
 [[files]]
@@ -1552,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-item-actions.pw.toml"
-hash = "fa9b69a503b5026fed035dc2b6656da1f78a1a85b5c8946dacef9fd5ac7e19d6"
+hash = "38c177805f79f3732bda0086dc178ca8de0fc4a6982edd607731d5f7c6265ed5"
 metafile = true
 
 [[files]]
@@ -1647,7 +1662,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-compatibility.pw.toml"
-hash = "2dba2047542ff3f3d5e24a68a35c498d19fd93bb4b739e7eaf3c6699322a5ec0"
+hash = "bcc4bcc865eeb996ba314b942f30c3a30d52823ff6b84a233acc8ac8f4e78bc5"
 metafile = true
 
 [[files]]
@@ -1797,12 +1812,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d55d5e9b2ceb866a5a3f7342478d4437230f1b9f177ea23360f1ab7ced0da95b"
+hash = "bf8edb8df8ec3804522e688c8ffbc351559821488d7faef2b7e90b13cee0109b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "53d56895bd15af3b71bc1337d4449584a5abdfd4eaa653fae428ca81fcf3fee7"
+hash = "a6c4f857d620b6cefac579b443435020801befa64a7e6a356a8cf9520572f986"
 metafile = true
 
 [[files]]
@@ -1976,6 +1991,10 @@ hash = "ac5eaa7af4d358bb3811d39cd79924807d68ebef6ac25d46f0b90e1efc4d1c01"
 metafile = true
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6 + Supplemental Patches.txt"
+hash = "e6447497125d5627d46a0a3ea75f26b2df1c3d3e046aee5e54d7d8ca2e42c61f"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
 hash = "16dfd2b46fa31b52556ccda1eb8c317afcb13c38d4324d1fa5a93f39238274e3"
 
@@ -1991,4 +2010,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "b12dafd81192a01bf89c22ca34ec2bc5588b8da4de16d2dcaed9f3d44d14e0f0"
+hash = "8693b83e4af5ba4442aefba76bea1c3adf6bf81a564899f9cc4f1970d41d3568"

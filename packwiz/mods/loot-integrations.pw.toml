@@ -13,3 +13,4 @@ hash = "2aa541075b8e13480db4a8021482fbffb2132337"
 
 [option]
 optional = true
+default = true

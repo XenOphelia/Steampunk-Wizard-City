@@ -1,0 +1,13 @@
+name = "Mclogs - mclo.gs"
+filename = "mclogs-forge-1.4.2-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6c63215208848ad569c77306724efa18224e351"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4591426
+project-id = 420561

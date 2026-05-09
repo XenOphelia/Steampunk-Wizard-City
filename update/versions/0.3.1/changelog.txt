@@ -1,0 +1,63 @@
+## v0.3.1 - QOL Update 
+
+### _**(If you're using the auto-updater, there is no need to download this update)**_
+
+ 
+
+**Added**
+
+*   Cerulean
+*   Colorwheel Patcher
+*   Crash Assistant
+*   Double Doors
+*   EMI
+*   EMI++
+*   Enhanced Celestials Shader Support
+*   Leawind's Third Person
+*   Mclogs
+*   Reconnectible Chains
+*   Reliable Recipes
+*   Reliable Remover
+*   Seamless Loading Screen
+*   TxniLib
+
+**Removed**
+
+*   Better Third Person
+*   Create Recycling
+*   Create: Vampirism
+*   Recipe Essentials
+*   Structure Essentials
+
+**Updated** 
+
+*   Better Advancements
+*   Botania
+*   Collective
+*   CraftingTweaks
+*   Create Confectionery
+*   Create: Gunsmithing
+*   CreativeCore
+*   Duplicationless
+*   Entity Model Features
+*   Farmer's Croptopia
+*   Feywild
+*   Gnetum
+*   Just Enough Breeding
+*   Krypton Reno
+*   KubeJS
+*   ModernFix
+*   Moonlight Library
+*   NukaTeam's Gun Lib
+*   Open Parties and Claims
+*   Simple Voice Chat
+*   Sophisticated Backpacks
+*   Sophisticated Core
+*   Sophisticated Inventory Interactions
+*   Sophisticated Item Actions
+*   Sophisticated Storage
+*   Sophisticated Storage Create Integration
+*   Structurify
+*   Tinkers' Compatibility
+*   Xaero's Minimap
+*   Xaero's World Map

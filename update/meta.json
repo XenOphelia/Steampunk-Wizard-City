@@ -46,13 +46,22 @@
             "curseforge": "https://www.curseforge.com/minecraft/modpacks/steampunk-wizard-city/download/7906363"
         }
       }
-    }
+    },
     {
       "id": "0.3.0",
       "releasedAt": 		1776892096000,
       "promotions": {
         "downloads": {
             "curseforge": "https://www.curseforge.com/minecraft/modpacks/steampunk-wizard-city/files/7969103"
+        }
+      }
+    },
+    {
+      "id": "0.3.1",
+      "releasedAt": 		1778284200000,
+      "promotions": {
+        "downloads": {
+            "curseforge": "https://www.curseforge.com/minecraft/modpacks/steampunk-wizard-city/download/8060351"
         }
       }
     }

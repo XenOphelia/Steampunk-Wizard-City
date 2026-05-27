@@ -1,12 +1,12 @@
 name = "Steampunk Wizard City"
 author = "Xen Ophelia"
-version = "0.3.1"
+version = "0.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1bad293e067899be040baadb2552b7e1ca966c6c1596eca9895c26e18286c977"
+hash = "ce6077cfe12e5f59eb1511642e71a477bbb82d45b272cc3ff666fe478e1d4657"
 
 [versions]
 forge = "47.4.10"

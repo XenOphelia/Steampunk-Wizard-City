@@ -1,0 +1,12 @@
+name = "EMI: Create Schematics"
+side = "client"
+filename = "emi_create_schematics-1.0.4.jar"
+
+[update.curseforge]
+file-id = 7260924
+project-id = 940673
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "32f35fb96c7a715b6c19d6f732cfc48245a3dcb9"

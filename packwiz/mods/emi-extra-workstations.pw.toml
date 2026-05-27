@@ -1,0 +1,12 @@
+name = "Emi Extra Workstations"
+side = "client"
+filename = "emiextraworkstations-2.1.0.jar"
+
+[update.curseforge]
+file-id = 7799468
+project-id = 1480976
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "b1401e006298ae3d2152c1ec677d437a6def40d3"

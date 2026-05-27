@@ -1,15 +1,15 @@
 name = "Additional Structures"
 side = "both"
-filename = "AdditionalStructures-1.20.x-(v.4.2.2).jar"
+filename = "AS_Config_Datapack-1.20.x-(v.4.2.2).zip"
 
 [update.curseforge]
-file-id = 5690527
+file-id = 5690553
 project-id = 297680
 
 [download]
 mode = "metadata:curseforge"
 hash-format = "sha1"
-hash = "b0a03635fe02ecafdbf60782a5c6459149bf7f2a"
+hash = "6ad2b184e301bbc986464ae80a83538a878f6dbd"
 
 [option]
 optional = true

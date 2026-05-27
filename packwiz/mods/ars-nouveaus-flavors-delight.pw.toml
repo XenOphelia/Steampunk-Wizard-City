@@ -1,13 +1,13 @@
 name = "Ars Nouveau's Flavors & Delight"
-filename = "arsdelight-1.1.6.jar"
+filename = "arsdelight-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b090eabb552236ab515691c12bf94daf21471023"
+hash = "a7b6a8aba3dc2ba68997af663786c6d7ac62a2a8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6531074
+file-id = 8046834
 project-id = 1131668

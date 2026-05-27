@@ -1,13 +1,13 @@
 name = "Feywild"
-filename = "feywild-1.20.1-5.3.1.jar"
+filename = "feywild-1.20.1-5.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e6b34be6c21445a83dce237291c1ce967ede8311"
+hash = "892d319d181bcbcf9772383c8c9a411d80a9533e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7995914
+file-id = 8091357
 project-id = 484377

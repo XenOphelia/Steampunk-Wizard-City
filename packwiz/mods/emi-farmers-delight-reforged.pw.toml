@@ -1,0 +1,12 @@
+name = "EMI Farmer's Delight Reforged"
+side = "client"
+filename = "emidelight-1.0.1-1.20.1-forge.jar"
+
+[update.curseforge]
+file-id = 7901337
+project-id = 1509393
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "55be3af106d88f0b50cfbc3cf200c7c946eccf9c"

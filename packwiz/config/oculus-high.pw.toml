@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://github.com/XenOphelia/Steampunk-Wizard-City/raw/refs/heads/main/packwiz/config/oculus.properties"
 hash-format = "sha256"
-hash = "c58b960a052cc3bbc42fcb988096ee94831631f194ba81fd3b614bd6581ebf7e"
+hash = "2d26fc29c179225eb3e21afaddfde25e752f2fdcf524a0cb68193db579584d25"
 
 [option]
 optional = true

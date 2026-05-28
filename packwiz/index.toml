@@ -651,6 +651,11 @@ hash = "4db6798a1586cee047fc2290ad1e5754fdbec8dd4226fd96594556501b2d7ab6"
 metafile = true
 
 [[files]]
+file = "mods/culinary-compat.pw.toml"
+hash = "4cd7ac390002900fe47e800551c990ab219f56ec7c5d3eace644b7285eec4c19"
+metafile = true
+
+[[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
 hash = "6cc421a237ada95bcf7e311ee79cab88649c7faab9886b29dd7091cb678a1811"
 metafile = true

@@ -651,11 +651,6 @@ hash = "4db6798a1586cee047fc2290ad1e5754fdbec8dd4226fd96594556501b2d7ab6"
 metafile = true
 
 [[files]]
-file = "mods/culinary-compat.pw.toml"
-hash = "4cd7ac390002900fe47e800551c990ab219f56ec7c5d3eace644b7285eec4c19"
-metafile = true
-
-[[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
 hash = "6cc421a237ada95bcf7e311ee79cab88649c7faab9886b29dd7091cb678a1811"
 metafile = true
@@ -673,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "0dec4f2d65f20cbb71df502256e58f8d65eb4b1c8d941f174a469092bf8a1a7a"
+metafile = true
+
+[[files]]
+file = "mods/cyanide.pw.toml"
+hash = "6b1b9bf9a9c23931a3e3ed5d9f736b176a3965a85879083c7637428dbc1602f2"
 metafile = true
 
 [[files]]
@@ -843,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/farsight.pw.toml"
 hash = "9bd9239e8d70a367c41b9d3d93f7328916123ec418776555db8d0a7ac63d811a"
+metafile = true
+
+[[files]]
+file = "mods/feature-recycler.pw.toml"
+hash = "119257a0c0eecc89ca8ca4ed6a495b9ca7d477acc5a822fecba1fc697989910c"
 metafile = true
 
 [[files]]
@@ -1027,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "72a8ce5ebe4af779de8996545200c48e863798d352dc454abb7eab8773a9ca15"
+hash = "d05b4c96047740973ae04cefaca040ef3bc2f29c6689285be674b84d5dbff3dc"
 metafile = true
 
 [[files]]
@@ -1366,6 +1371,11 @@ hash = "df7a58af5cb547cb765642ee4ed563fa15c59d9e6f44d99229541d4d1d32c84b"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight-fix.pw.toml"
+hash = "361d96c22502cd1d7e3dbdba828408b2006a508e90b974275020f6b874a229b8"
+metafile = true
+
+[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "a27715adab9f478c1bdf1789c1e51343bb2300e36f6ead52c4f62aeae595c791"
 metafile = true
@@ -1577,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "98208065bbb28a0d884f87baf30cdcb6a172ba94f3146c5b392ca8c4c85b2fd1"
+hash = "b591b447ae881632631db3349f26c077e5e0431ad2a14c411cf149e688ff8975"
 metafile = true
 
 [[files]]
@@ -1657,7 +1667,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7226c6e2e259ccc2bda599dafe990aab3d1d9c675a4f30a00b5f5e1e33e13dc5"
+hash = "84065b716a71d24865de72295965ebe28129794126142cde040ad2f4d8ee893a"
 metafile = true
 
 [[files]]
@@ -1927,7 +1937,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "ac505e3f91de91d4f71a66e78f5ee9d1c90bfacaa7e659b5ee8fd7bb6c984cd5"
+hash = "71663b84ed99b068e1de5ea35510297b66f523e9be91c2382997e0200bbf6f32"
 metafile = true
 
 [[files]]

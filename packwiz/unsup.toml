@@ -23,8 +23,6 @@ choices = ["worldgen_off", "worldgen_on"]
 
 [metafile.oculus]
 flavors = ["eye_candy", "vr"]
-[metafile.oculus-high]
-flavors = ["eye_candy", "vr"]
 [metafile.colorwheel-client]
 flavors = ["vr"]
 [metafile.euphoria-patches]

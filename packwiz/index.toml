@@ -2229,12 +2229,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined-txt-vr.pw.toml"
-hash = "5a42a429c8b9466f22c14ba60e9714d7a39046363363d5b69d59e9d8b928046e"
+hash = "d8e7464303158b5b9dc586050beace2a13669ff71a4d88d8d86b9134057d0fb7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined-txt.pw.toml"
-hash = "e2fa5bda69c12a569b812f9c34c77afa16915c5de9210acb4a1169eacb850039"
+hash = "abb2e2219a3c3d7b6b13174042c3012c0aa68315b5c70fff0ddd0f337a43ed06"
 metafile = true
 
 [[files]]

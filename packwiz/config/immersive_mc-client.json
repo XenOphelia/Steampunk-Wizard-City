@@ -8,7 +8,7 @@
   "autoCenterFurnaceImmersive": false,
   "autoCenterBrewingStandImmersive": false,
   "bagMode": "BUNDLE",
-  "placementGuideMode": "CUBE",
+  "placementGuideMode": "OUTLINE",
   "spinSomeImmersiveOutputs": true,
   "rightClickImmersiveInteractionsInVR": false,
   "compatFor3dResourcePacks": false,
@@ -19,7 +19,7 @@
   "colorPresetAlpha": 127,
   "colorPresetSelectedAlpha": 207,
   "colorPresetRangedGrabSize": 255,
-  "multiColorPresetTransitionTimeMS": 5000,
+  "multiColorPresetTransitionTimeMS": 3021,
   "itemGuideCustomColorData": {
     "colors": [
       1670089611
@@ -30,7 +30,7 @@
     "rangedGrabColors": [
       2143667653
     ],
-    "transitionTimeMS": 5000
+    "transitionTimeMS": 3000
   },
   "reachBehindBagMode": "BEHIND_BACK",
   "textScale": 1.0,

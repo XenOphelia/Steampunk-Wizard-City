@@ -1,9 +1,9 @@
-name = "Complementary Shaders - Reimagined"
+name = "Complementary Shaders - Reimagined Low Settingss"
 side = "client"
-filename = "ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.2.txt"
+filename = "ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 
 [download]
-url = "https://raw.githubusercontent.com/XenOphelia/Steampunk-Wizard-City/refs/heads/main/packwiz/shaderpacks/ComplementaryReimagined_r5.8.1-EuphoriaPatches_1.9.2-vr.txt"
+url = "https://raw.githubusercontent.com/XenOphelia/Steampunk-Wizard-City/refs/heads/main/packwiz/shaderpacks/ComplementaryReimagined-EuphoriaPatches-vr.txt"
 hash-format = "sha256"
 hash = "77088fb54adde2d1c2afc5fb5af20be7869ecc6f4846bfdd03bdec61cc78f687"
 

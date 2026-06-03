@@ -18,6 +18,14 @@ file = "config/colorwheel-client.toml"
 hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
 
 [[files]]
+file = "config/immersive_mc-client.json"
+hash = "62efbe861b98cfc5067a10391e06bcf8659207172b8f0cfcf405bf342c701e9c"
+
+[[files]]
+file = "config/immersive_mc-server.json"
+hash = "4b18681c6a0958b8154eb8ab8f9293545b24100110500aadfe6448aabd39beaa"
+
+[[files]]
 file = "config/mantle-client.toml"
 hash = "c390daa14dea3ec18a1b2a0c15de43d4a3c249f8359aaa32bd6d482bc4aaafea"
 
@@ -30,9 +38,8 @@ file = "config/modpack-update-checker/modpack-info.txt"
 hash = "cf776efc99eaa42114d75ad87a8e95a85412ffa18d070d3a3b8c8e57fe2baf55"
 
 [[files]]
-file = "config/oculus-high.pw.toml"
-hash = "9f27fe2731ba6583b7611a3ad459c85a63bfefae5dcbb44403287f3494e566c3"
-metafile = true
+file = "config/oculus.properties"
+hash = "faf5980eefa0f70e87d87482cfcb13386c75129c4adaa614b4445443827c23c9"
 
 [[files]]
 file = "configureddefaults/config/AdvancedBackups.properties"
@@ -311,6 +318,11 @@ hash = "dad35c9ae77d98a29167227bf61213101aef4533ecc80e48336d71334401fe1a"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
+metafile = true
+
+[[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "605d1f1ae3de3633229406d58ebff0fc51b159a9d6107cdf30a48d80ad9746b2"
 metafile = true
@@ -472,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/cpmsvcc.pw.toml"
-hash = "605c2d7326a3ea69d5430cfde15fbbeae9a6234f4ec3a2dad1df2ce112b6cb08"
+hash = "707a66289f7fd867bee250d0027f0fe571e3e4183e3b03c01841088c8a6f6b32"
 metafile = true
 
 [[files]]
@@ -686,6 +698,11 @@ hash = "acb7ebe72eeb476a26e5777cbbbad0a270db8ff85de0aa417be8e1228d26e2f4"
 metafile = true
 
 [[files]]
+file = "mods/defaulted-hotkeys.pw.toml"
+hash = "e34d2b286ee0413cdcd99b5ebc866be1dbd0507379bd67893084515e1353e91c"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "bee0bbbcb6f4082c1916d3601f92d88a7a3f68fb9e0d657909e1d507709115e6"
 metafile = true
@@ -721,13 +738,18 @@ hash = "220eab9b6237a88037f5192c8f63670ed1fd0a54ca990ab8dc99099ef14b8ba0"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "c94b9427a8d7f0e6aa0a1779c68bde63b98b4adc1968b48adad521f51bde84f3"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "572ddb2982c9d493fbe888e2877aac3d6deab26f17a3e3ccb6862dba6afb3e27"
 metafile = true
 
 [[files]]
 file = "mods/emi-backport.pw.toml"
-hash = "0be63a90938de86af2347434987a6388448fa0bf8259cbaab03beabdbd5c3afc"
+hash = "3752815d98bcd8949b5317e60794550edc7f75d52c69227e036b89ea363384dd"
 metafile = true
 
 [[files]]
@@ -741,8 +763,8 @@ hash = "0422a7a72c0901f266e0bf9cfb39ac772d80b2ce5471d3d64c6f7c7c1cab15d8"
 metafile = true
 
 [[files]]
-file = "mods/emi-farmers-delight-reforged.pw.toml"
-hash = "026ad564e214d9d7e67ee10df601f8a360d3fd849bea45571ff007c636a2675a"
+file = "mods/emi-loot.pw.toml"
+hash = "7bb64cd8e6d14b65132c4d25d66cf499092f31816efdcbeef484bf73385440d9"
 metafile = true
 
 [[files]]
@@ -752,12 +774,22 @@ metafile = true
 
 [[files]]
 file = "mods/emi-professions-emip.pw.toml"
-hash = "cd093dcf4ada8caca686939c3d024817f771e7d5f2eea1bb1d898172c7f50723"
+hash = "ce28b3049349fc58cf6c62cce8ac3cc799cd91040f048f5b2f1f3e23feba24f0"
+metafile = true
+
+[[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "adcacf2f28d2eca87149dc1c6f2efc495df9d4bfb15f0a58220c090e97774e7f"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "09455e81afb0af9383c906f8b48854c1a037ccd26cf7edcecc9685ebb8233e39"
+hash = "d3f75ccb08e9eb4409a5a5db0c97ce292c6e2af25dc5c65f7dfb0b75dc15fdbe"
+metafile = true
+
+[[files]]
+file = "mods/emiaccelerator.pw.toml"
+hash = "f9f4954ae8d71be344ba96fc45bb75760e3c3e9c3fc81810d46448f471a7e772"
 metafile = true
 
 [[files]]
@@ -768,6 +800,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
 hash = "52b3c77bd30fb797b410ed212f80061b910f6bdce8928742e6c97f96916cf6ac"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "3b8dacbd1cd0e3d849b080473559fd26e4268e396075ad37d0fdf7031ee9dc97"
 metafile = true
 
 [[files]]
@@ -817,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "6e7dc8a3db8bd6eb3b28e744f8a91f49483e9a6693e5cc05d32df5854842a5ed"
+hash = "4054c1418f1998e847ab89ceb60ae7697af23a0e3f97a04e2453cdf7b4005d49"
 metafile = true
 
 [[files]]
@@ -928,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/ghost.pw.toml"
 hash = "2c74ccadb1fc076c3ecc3257fd71833b475091c976b6628ed7531923e111ce55"
+metafile = true
+
+[[files]]
+file = "mods/global-shaderpack-properties.pw.toml"
+hash = "c20ab47ec00cd3f5cc990b8045ee92213cee1fbd3115fc53dfe6bd5c8d15db61"
 metafile = true
 
 [[files]]
@@ -1056,18 +1098,18 @@ hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
 metafile = true
 
 [[files]]
+file = "mods/jei-integration.pw.toml"
+hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
-hash = "7462fac47d19eab330cdf24eb07c65a5c421ded2d94675fb8ef21cdbbb034c13"
+hash = "5245546b9bf091211e471b5636fbc6e53d94907117e4f48427f4a915c38272fe"
 metafile = true
 
 [[files]]
 file = "mods/json-things.pw.toml"
 hash = "1efef6e736712c66ad307f7eeeb0fb8cf344908c643ebcfada612b8312c2d144"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-archaeology.pw.toml"
-hash = "0e61bdad02c3baa90ff0c6894f533a4b7ac46090095d59f6162f848b99a90280"
 metafile = true
 
 [[files]]
@@ -1088,16 +1130,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-filters.pw.toml"
 hash = "ef3c7651fd2cb5fbef68da0f57de853dcece5e30b98b45060f7c754cd735d893"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "08a365f0717fbd5561ff746bc6c41185b0c84582a1cd834115b933266328a5ff"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
@@ -1372,7 +1404,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight-fix.pw.toml"
-hash = "361d96c22502cd1d7e3dbdba828408b2006a508e90b974275020f6b874a229b8"
+hash = "a67fc6426ea16a25fa7d62336873101c9550fed7209a46f8426614f1d6a1837a"
 metafile = true
 
 [[files]]
@@ -1522,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie-buddies.pw.toml"
-hash = "261571d5c7e483fe0ed2388dca9c6cf4dfd3c5e4df7e39ac77a9e6fb6c0f5e53"
+hash = "97a783179caf0b8b75a4643e6344a6160188806371787fd8325fa918014922e8"
 metafile = true
 
 [[files]]
@@ -1587,7 +1619,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "b591b447ae881632631db3349f26c077e5e0431ad2a14c411cf149e688ff8975"
+hash = "7cc0f6754822a2e7555cf5e436476b2285d25ed23caff07112e4acaae474593d"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "2ee33caa3dab100d44d9a9e941af5f374ce93cc59fdd0da10a0cc1393e56edc0"
 metafile = true
 
 [[files]]
@@ -1623,11 +1660,6 @@ metafile = true
 [[files]]
 file = "mods/sbm-bone-torch.pw.toml"
 hash = "a455dae4c979517d82fbf138f22db3fe1a138ab27e980b76111fc8d09ec2a1d9"
-metafile = true
-
-[[files]]
-file = "mods/sbm-charcoal-block.pw.toml"
-hash = "c153c3c529b82a63070207b18b6b8808ffb088b56689fc558716507c1f61e039"
 metafile = true
 
 [[files]]
@@ -1707,12 +1739,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "256495f243e8edd16ed92c7889bda02855355aa42727f3583f9ef7714db3dea5"
+hash = "96dff1c2c314ea2ed4fdb9e8d7d2cdd75c93afe4e4e588d11daae5b8b0d760d1"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "579fbff2079d03f5a2f0b1660eff7a2baf23e68d9a97ec601b0a8f8892f456f6"
+hash = "d4ecfc4a7fd8cec670a18bed97497eb5e01f6dd4f90408fae65a81a51e0cf048"
 metafile = true
 
 [[files]]
@@ -1737,7 +1769,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b577fd2e9fd2dbf606f5fb1f138f181f3f5f4f63fd255612d72a3c199b735d78"
+hash = "3845f3581758f35afd9040accd08c9d3605ac780cedcd91372dbbfa22796985a"
 metafile = true
 
 [[files]]
@@ -1807,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/tconjei.pw.toml"
-hash = "2b3f975355cf9a41598b991d989bf3f2bee16d7daf12beb3843f100ea19c9a01"
+hash = "dbae79c420eaa04bfac24d01d9b5b84c382ec031d927ff384817b20990682c1e"
 metafile = true
 
 [[files]]
@@ -1871,8 +1903,18 @@ hash = "6703454d8d33a364b73810d11de90802cc30314b4416bce1b30e6eecf7b47107"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "86dc17ceb1617df9f760cb36a9407b974e09cf0fcf4d08176762e1163c206baf"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "e7ab1ee986a2390a20fa71e980ec239b1bf73bc1a981f2668416e125fff0a9e3"
+metafile = true
+
+[[files]]
+file = "mods/two-players-one-horse.pw.toml"
+hash = "aa02a6acee1d6a23867df15e717381d7aa20095f39b175ddd0a3e559a74383a0"
 metafile = true
 
 [[files]]
@@ -2186,21 +2228,13 @@ hash = "ac5eaa7af4d358bb3811d39cd79924807d68ebef6ac25d46f0b90e1efc4d1c01"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.1-EuphoriaPatches_1.9.2-vr.txt"
-hash = "77088fb54adde2d1c2afc5fb5af20be7869ecc6f4846bfdd03bdec61cc78f687"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.1-EuphoriaPatches_1.9.2.txt"
-hash = "be2646728b1a57d4f89e72f70f83c4285c9a23ca2b929605cbca92dc850f2c19"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined-txt-vr.pw.toml"
-hash = "eeceab93e6bef29cc8cb732f6da647a71005e42da763021af9918204f0efcbad"
+hash = "5a42a429c8b9466f22c14ba60e9714d7a39046363363d5b69d59e9d8b928046e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined-txt.pw.toml"
-hash = "d158025fc3faf0d031e89146f4b1709ace0b5c9c61c65a8058b811985ab60173"
+hash = "e2fa5bda69c12a569b812f9c34c77afa16915c5de9210acb4a1169eacb850039"
 metafile = true
 
 [[files]]

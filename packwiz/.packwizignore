@@ -1,13 +1,17 @@
+.unsup-state.json
 unsup.toml
 packwiz.exe
-config/oculus.properties
 config/oculus.properties.low
-shaderpacks/complementary-reimagined-txt.pw.toml
-shaderpacks/sildurs-vibrant-shaders-txt.pw.toml
-shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt
-shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip.txt
+config/oculus-low.pw.toml
+config/oculus-high.pw.toml
+shaderpacks/ComplementaryReimagined-EuphoriaPatches.txt
+shaderpacks/ComplementaryReimagined-EuphoriaPatches-vr.txt
+shaderpacks/ComplementaryReimagined_r5.7.1-EuphoriaPatches_1.8.6.txt
+shaderpacks/ComplementaryReimagined_r5.7.1-EuphoriaPatches_1.8.6-SupplementalPatches.txt
+shaderpacks/SildursVibrantShaders_v1.51-Lite.zip.txt
 PW-GUI.exe
 update.sh
-.unsup-state.json
 .gitmodules
 .git
+.gitattributes
+.gitignore

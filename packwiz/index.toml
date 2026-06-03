@@ -19,7 +19,7 @@ hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
 
 [[files]]
 file = "config/immersive_mc-client.json"
-hash = "62efbe861b98cfc5067a10391e06bcf8659207172b8f0cfcf405bf342c701e9c"
+hash = "cb4731a025abb025d9cfbd8922b696ef010c82078ad3b50c02608999f63302e3"
 
 [[files]]
 file = "config/immersive_mc-server.json"

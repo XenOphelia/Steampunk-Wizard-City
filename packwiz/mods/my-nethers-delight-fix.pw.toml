@@ -1,13 +1,13 @@
-name = "My Nether's Delight Fix [Also Support Miners Delight+, Dungeons Delight, Create: Central Kitchen]"
-filename = "mndfix-1.8.0-all.jar"
+name = "My Nether's Delight Fix"
+filename = "mndfix-1.9.0-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3add0ba1eaf3b9fa9d7f005b34e44d03fbf5b457"
+hash = "5bed914906da64d6687511ab0f3b0c5e5ed1fca5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8161724
+file-id = 8173804
 project-id = 1542689

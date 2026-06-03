@@ -1,0 +1,12 @@
+name = "Defaulted Hotkeys"
+side = "client"
+filename = "defaulted_hotkeys-2.1.1-1.20.1-forge.jar"
+
+[update.curseforge]
+file-id = 7379301
+project-id = 1158440
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "fcb996bbf6ab127ebb614690bf8f9d8410990ef9"

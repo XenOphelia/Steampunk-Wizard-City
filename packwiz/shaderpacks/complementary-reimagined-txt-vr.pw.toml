@@ -5,7 +5,7 @@ filename = "ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 [download]
 url = "https://raw.githubusercontent.com/XenOphelia/Steampunk-Wizard-City/refs/heads/main/packwiz/shaderpacks/ComplementaryReimagined-EuphoriaPatches-vr.txt"
 hash-format = "sha256"
-hash = "77088fb54adde2d1c2afc5fb5af20be7869ecc6f4846bfdd03bdec61cc78f687"
+hash = "7969169914eae83d71068b9ecb8873a2325c9fd410648266f1ded27ff86222e0"
 
 [option]
 default = true

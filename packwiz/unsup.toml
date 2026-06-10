@@ -21,7 +21,7 @@ description = "Do you want to create singleplayer worlds with the same structure
 side = "both"
 choices = ["worldgen_off", "worldgen_on"]
 
-[flavor_groups.jei]
+[flavor_groups.tmrv]
 name = "TooManyRecipeViewer"
 description = "Recommended alternative to JEI that loads faster on client-side. Do NOT use for server."
 side = "both"

@@ -1,12 +1,12 @@
 name = "Omega Mute"
 side = "client"
-filename = "omegamute-1.20.1-4.3.jar"
+filename = "omegamute-1.20.1-4.5.jar"
 
 [update.curseforge]
-file-id = 6185458
+file-id = 8211936
 project-id = 374828
 
 [download]
 mode = "metadata:curseforge"
 hash-format = "sha1"
-hash = "98c283691102f2727289a5f5c04d05eba740dcc2"
+hash = "ef10e5901f968e782cc63b115ef63d9cf264a65d"

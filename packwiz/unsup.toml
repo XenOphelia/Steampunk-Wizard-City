@@ -21,6 +21,12 @@ description = "Do you want to create singleplayer worlds with the same structure
 side = "both"
 choices = ["worldgen_off", "worldgen_on"]
 
+[flavor_groups.jei]
+name = "TooManyRecipeViewer"
+description = "Recommended alternative to JEI that loads faster on client-side. Do NOT use for server."
+side = "both"
+choices = ["tmrv_on", "tmrv_off"]
+
 [metafile.oculus]
 flavors = ["eye_candy", "vr"]
 [metafile.colorwheel-client]
@@ -152,3 +158,9 @@ flavors = ["worldgen_on"]
 flavors = ["worldgen_on"]
 [metafile.repurposed-structures-irons-spells-n-spellbooks]
 flavors = ["worldgen_on"]
+
+[metafile.tmrv]
+flavors = ["tmrv_on"]
+
+[metafile.jei]
+flavors = ["tmrv_off"]

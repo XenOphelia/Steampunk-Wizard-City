@@ -1,12 +1,13 @@
 name = "Just Enough Filters (JEF)"
+filename = "justenoughfilters-forge-2.5.0+1.20.1.jar"
 side = "client"
-filename = "justenoughfilters-forge-2.2.0+1.20.1.jar"
-
-[update.curseforge]
-file-id = 8208311
-project-id = 1419713
 
 [download]
-mode = "metadata:curseforge"
 hash-format = "sha1"
-hash = "cde5479b854391df416f8ea0cc65af5fca61524c"
+hash = "e6a0c0c00b78ca2bbe314b598a133273c5e00173"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8248396
+project-id = 1419713

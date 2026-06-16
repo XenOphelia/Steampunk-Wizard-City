@@ -1,5 +1,5 @@
 name = "Colorwheel fallback"
-filename = "oculus.properties"
+filename = "colorwheel-client.toml"
 side = "client"
 
 [download]
@@ -9,4 +9,3 @@ hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
 
 [option]
 optional = true
-default = true

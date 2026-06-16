@@ -1,4 +1,4 @@
-name = "Complementary Shaders - Reimagined"
+name = "Complementary Shaders - Reimagined High Settings"
 side = "client"
 filename = "ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 
@@ -8,5 +8,4 @@ hash-format = "sha256"
 hash = "6babbcaa9ef2e0a70386a2c62f45af26ac59e4ff6d0f23ce1d3d068b70ba504c"
 
 [option]
-default = true
 optional = true

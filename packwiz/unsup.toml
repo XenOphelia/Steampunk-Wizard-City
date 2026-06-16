@@ -22,8 +22,8 @@ side = "both"
 choices = ["worldgen_off", "worldgen_on"]
 
 [flavor_groups.tmrv]
-name = "TooManyRecipeViewer"
-description = "Alternative to JEI that loads faster on the client.\n<ul><li>Recommended for client-side only.</li></ul>"
+name = "Faster client world load"
+description = "Use TooManyRecipeViewers as an alternative to JEI that loads faster on the client upon entering a world.\n<ul><li>Recommended for client-side only.</li></ul>"
 side = "both"
 choices = ["tmrv_on", "tmrv_off"]
 

@@ -10,7 +10,7 @@ hash = "48f301496789c955b5c70d8e071f330941e170bec67b197b428466cb11c780b1"
 
 [[files]]
 file = "config/colorwheel-client.pw.toml"
-hash = "79ed517529e6b47b46293dd68efe3c2bca970aafd0b2aadc65b99dbf8153be76"
+hash = "7a6c3290b9593aa0e0496ab5e10e72c2c0694c550d403594f6eca699fed7ebb4"
 metafile = true
 
 [[files]]
@@ -20,6 +20,11 @@ hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
 [[files]]
 file = "config/connectivity.json"
 hash = "569828d902dc437bf88f8bfc49c7dc3e2b12c49295cc8b137b1c64ca6422d052"
+
+[[files]]
+file = "config/dynamic_fps.pw.toml"
+hash = "04311fa4f63823a71504e3cfbae5a629eca45b9dd02cc33ec5092f6e8f3d85f6"
+metafile = true
 
 [[files]]
 file = "config/immersive_mc-client.json"
@@ -358,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7ae1c3076f14465e7c35ab4493da2f7f7af99f2096f0144f38834da56584d190"
+hash = "e0cfeddcbb7674f4b91ab2e6bee43945115d446139e21803c1566c64ca353954"
 metafile = true
 
 [[files]]
@@ -443,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/constructs-casting.pw.toml"
-hash = "dbc48445e2346a828f2a2c56b4e64abee4e7edf09705eba21ff537a20187f041"
+hash = "cd91472dc8e3741c0df8e97fb8be276824d7cf76107052bb7a35f93e5da8b19c"
 metafile = true
 
 [[files]]
@@ -738,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-village.pw.toml"
-hash = "220eab9b6237a88037f5192c8f63670ed1fd0a54ca990ab8dc99099ef14b8ba0"
+hash = "23254b6becc9fb17393b9a46239a75a992ec4c5a31b54b1e122248086b0ce64c"
 metafile = true
 
 [[files]]
@@ -773,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "daef210e9d3922c541bfa5e62acf19f30202682b143b651cb6c9959e6a53821d"
+hash = "cebdf3f29156dbae79c6a172428f6ac5093dd3c9b54334989b602298113c1653"
 metafile = true
 
 [[files]]
@@ -1078,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "d05b4c96047740973ae04cefaca040ef3bc2f29c6689285be674b84d5dbff3dc"
+hash = "d088e252d73788a36d179161308ac884f979201fb4ee880473aeb22ede59947a"
 metafile = true
 
 [[files]]
@@ -1088,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "f61d1835a5c388d7eb1bc9727e3a436d9e10bb806ee215ec0f72a8e36d7f5dd2"
+hash = "d0914d5a9bd79a8b11f3669f848f00d7028405d57c23f47a12ee2dc61a051856"
 metafile = true
 
 [[files]]
@@ -1133,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-filters.pw.toml"
-hash = "feca2e38a4de01ef40aab45894fcab93eb900d2f2200cdc5b06567183bfb5611"
+hash = "3f4a0c1afa49d8d4c74d4a4a6110e81d5455700da283622b9e16ba8621021225"
 metafile = true
 
 [[files]]
@@ -1388,7 +1393,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "091df4fc4cebf0c6984df175b0dac0fd168bc34cea56429d073f64feb244e615"
+hash = "c542e5e9661a7fb46bc58fe71559352500cce3605b904697cd71f97b5e924c33"
 metafile = true
 
 [[files]]
@@ -1498,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "910bf8541d58020d34c119cd3b35bd3d4fc3954db80ba22f2db98849a1b40357"
+hash = "a85df37d5c0afc3b2fdae7e43b7bf145d0ef06de6a55fd223901f09fbc514ccc"
 metafile = true
 
 [[files]]
@@ -1513,7 +1518,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "ebce1dee8bd140f708c589e184e746fdfd3db12560aeee3ed4d51d86eb40363f"
+hash = "2e0227a7a7f3617e52f54bf563ee4e7c9bac70f31a78e6b88b66b0128fb449c9"
 metafile = true
 
 [[files]]
@@ -1603,7 +1608,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "a2eeb3d910f5f701e8768f3ac4591f9617a40fe7f948150835c82d1ac6aaa5df"
+hash = "32bfcae9c5f36ac93ee655d1a511f14d5f250dc5a1d2970e865221f29589fb98"
 metafile = true
 
 [[files]]
@@ -1633,7 +1638,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "9f1a5b208607c1e8f45af951dd95dc9591901864bd2637b758a41daa7a03a714"
+hash = "69847ec4f41c9db1cc39af3628a7b6bf12f8d645e8f90607a97391a05706f6bd"
 metafile = true
 
 [[files]]
@@ -1718,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "71827303f816863fbe3523814b29a6637d642490bfb1619dfcfd9d1558f89da6"
+hash = "fc76a951d65b49fdcbdaf6043c773d7f85f3597900dc4730643265bcc5cc9890"
 metafile = true
 
 [[files]]
@@ -1743,12 +1748,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "d4d0be2f17cce7873e2101a0a19960c9acd41392d29bc283e0fdc86f1ce346e3"
+hash = "25f39841426bf0606207cb57e7c9b8ec41d8a26e79d570b3d5eaecdef3b0cfd9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "87d95e00c17c5523a1e49bdf15ecb9747751d70605459939e13275137cdf2f44"
+hash = "3ffdeb591c2704c811cffc43874d4e9965cce8825c8f97441c66cb23d877845e"
 metafile = true
 
 [[files]]
@@ -1758,7 +1763,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-item-actions.pw.toml"
-hash = "a2c0c25b6350382fa56bbe42db1c7945159740b07c7d5dd4fa4b00836040a4c4"
+hash = "5c706cf232d3db6506bf4f5bc064556e749569f95947edb6ded2ab426d1faf69"
 metafile = true
 
 [[files]]
@@ -1773,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "bcdcaa9c2be8248567edecb830a38b7e9ff7df3a51c0b65da0c35c55b3f331b8"
+hash = "417ab465d909e310825d1e4b91974a30093e7500acd5dfb87e9169a74d6205f9"
 metafile = true
 
 [[files]]
@@ -1958,7 +1963,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "68ea2d60019584c3e12c18fa16ed89ae7f58dabbe99480b01b81ba8eac64eea8"
+hash = "5b1cadb46c4df839bfccd74bea51d1e567b7ac8e9df62ab095e7150b4af4d6ca"
 metafile = true
 
 [[files]]
@@ -2043,12 +2048,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bf8edb8df8ec3804522e688c8ffbc351559821488d7faef2b7e90b13cee0109b"
+hash = "9f2108437048cf5f8bab2cbb386ba6db9476e9ae98e3a04b46b2d92efd2ea989"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a6c4f857d620b6cefac579b443435020801befa64a7e6a356a8cf9520572f986"
+hash = "6a7b924b79571b9b67a14347efa0d733974b38a1d59d41bad52cf8b19d4d3452"
 metafile = true
 
 [[files]]
@@ -2233,17 +2238,17 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined-txt-vr.pw.toml"
-hash = "d8e7464303158b5b9dc586050beace2a13669ff71a4d88d8d86b9134057d0fb7"
+hash = "23b612a38450e0fcd04163051a6622e7ba090ef0ba7185404979d635e3f61ef5"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined-txt.pw.toml"
-hash = "abb2e2219a3c3d7b6b13174042c3012c0aa68315b5c70fff0ddd0f337a43ed06"
+hash = "25f001292224e93901ee378cd3700225589fb444d0e3ba4e981242b7c4408d9e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "fecc7b68b011c673eec8bcb363ec7ebc5129b8b4fd184ff85c2599b3f6e0c0cc"
+hash = "68e5b399d65195031b61694a79b44e38f5fdc46b54d14790c030e43c34db2237"
 metafile = true
 
 [[files]]

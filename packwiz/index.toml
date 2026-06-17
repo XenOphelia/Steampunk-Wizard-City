@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1c6c8b2b573cb54265aa185ce94043a0bbe9ff7e2864a9a9ed11267a861027fb"
+hash = "8bdd0f05924d213e74facae04f3721032f121d81ddbe506a69752899d46d50c3"
 metafile = true
 
 [[files]]
@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e9418858499847188003986d3f855f0b136410d7187730f4a63d4b7e295976f4"
+hash = "5cf59dfda8835a4c9e77f79dc0c29bc3bf63c6e6c9879bc669d583decda93bfb"
 metafile = true
 
 [[files]]
@@ -1688,7 +1688,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "29ff83cc430685951bf7692d6aa3c6b864b4c43b1e7c86221ea83992451f7b01"
+hash = "2720aee58db6299559f89ea9dc8b1d573b8324f2b4af1e594c5239607585487b"
 metafile = true
 
 [[files]]

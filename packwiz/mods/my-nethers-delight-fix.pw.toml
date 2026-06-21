@@ -1,13 +1,13 @@
 name = "My Nether's Delight Fix"
-filename = "mndfix-1.9.0-all.jar"
+filename = "mndfix-1.10.0-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5bed914906da64d6687511ab0f3b0c5e5ed1fca5"
+hash = "e6bcda3728762d1573719a9fe79b8e25fbcba8aa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8173804
+file-id = 8278702
 project-id = 1542689

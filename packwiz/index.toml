@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveaus-flavors-delight.pw.toml"
-hash = "35ce3b3b336fae0d23c7684afdf40f56ccfdba6ba7d7a9657815fc57641bed98"
+hash = "a4c387d8d6b3c399758302400eb4aee0c604f374066546a579f8f09d2a985851"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "8ae84c83cda64dc97b0eb56ab4ec0ee08c4af0b49137af645368d3f7c192a40b"
+hash = "9ad11d58149774711691458e2a5e91e1797efdd0f02e3d600f7d42edb6d1a59f"
 metafile = true
 
 [[files]]
@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a39f2bc45d170b5af566470f7b36e7f86e5ff9addf20089ee5791bc39c4a35f4"
+hash = "e69072b9b3e58c787ebbc03133dc6dc01afc5e3cc6fc88d993fc6e0334585200"
 metafile = true
 
 [[files]]
@@ -1608,7 +1608,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "a306ff741341a052062403568d4c55fcdfb61f1d08dfc928ef9df55c9c39f7cc"
+hash = "b4f5a4afd88adc84da8755ae4c4933278637d433207dda1359ff7a530412d982"
 metafile = true
 
 [[files]]
@@ -1708,7 +1708,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4450018e28bbf2818d737b002fa0b63bdd11ad16ef4f2f5243b0c892a5f192eb"
+hash = "7eee1c96436a7ec635c261fc1beb97d0b9db13cd00ec7bf1df44bb0dd7c957ab"
 metafile = true
 
 [[files]]
@@ -2053,7 +2053,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6a7b924b79571b9b67a14347efa0d733974b38a1d59d41bad52cf8b19d4d3452"
+hash = "294cb9e0859ced405836f168ad0dab487b898f5f6dea1b94987eeb6971e4401d"
 metafile = true
 
 [[files]]

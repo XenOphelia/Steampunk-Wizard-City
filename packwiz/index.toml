@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c6db31a666f48f3c80dd3ba1dd6e253e3785adfed19b782956a3469fb796d97c"
+hash = "47736af1584283072d721e4f2700929a0fabe67b36e2175fc48b0964db70ab8b"
 metafile = true
 
 [[files]]
@@ -1753,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0fdad5f16721578f133711af8f5fa5fae704c090512c2d539da2b298a399c9ab"
+hash = "5a0097f2f7aefeada177e6830884db336191ea3c633f0c53a829e2d85f569918"
 metafile = true
 
 [[files]]
@@ -1778,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "417ab465d909e310825d1e4b91974a30093e7500acd5dfb87e9169a74d6205f9"
+hash = "c0836062f1e0fbb0e4e40b2d862a29953c12fde8b2372ce7103924f20fe85b5e"
 metafile = true
 
 [[files]]

@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0af4859b1dcf39126ff0e0c4a2e5801a7e775e9aa7e0706bfb49360c4e363d80"
+hash = "2748dd9b0e257bfab513ca5b7e939a103a501eea0d806eaae9e691cfbcafa74c"
 metafile = true
 
 [[files]]
@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/ghost.pw.toml"
-hash = "2c74ccadb1fc076c3ecc3257fd71833b475091c976b6628ed7531923e111ce55"
+hash = "eb349a110b8fd4db74157919fa309721b3a5c891fa8a360c9279d248c7565724"
 metafile = true
 
 [[files]]
@@ -1138,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-filters.pw.toml"
-hash = "3f4a0c1afa49d8d4c74d4a4a6110e81d5455700da283622b9e16ba8621021225"
+hash = "be4a328d5d8f795ce948c8331728850d139b6afbd8436f17a88d68c589aafb9b"
 metafile = true
 
 [[files]]
@@ -1193,7 +1193,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-gui.pw.toml"
-hash = "fa2467d144872abde39bda923450f2055b91679ff99084832c8edf9cdd910da6"
+hash = "dc6ece2b7f340586aaf52ffa02716ee832357badcb47a15a023f946b855de556"
 metafile = true
 
 [[files]]
@@ -1608,7 +1608,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "b4f5a4afd88adc84da8755ae4c4933278637d433207dda1359ff7a530412d982"
+hash = "c27ed3e7751c57bb134c5e8d8097b41e74d4cc388d91c32d39d9dbb33bbb423e"
 metafile = true
 
 [[files]]
@@ -1813,7 +1813,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "21f5d64048731b35c303f149a700cfdb68ebce74c71273f5501037ae3f7789a0"
+hash = "5f440c4ad61c654a9b6876fefb8d752716a12463074ee5a318e7380f5bf32b72"
 metafile = true
 
 [[files]]

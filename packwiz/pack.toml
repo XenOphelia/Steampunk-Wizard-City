@@ -11,7 +11,7 @@ hash = "b08cde81be75bb86237bb3cd23bb60137e49427f7b7a27336b3a0c7e03c3d93f"
 [versions]
 forge = "47.4.10"
 minecraft = "1.20.1"
-unsup = "1.2.4"
+unsup = "1.2.7"
 
 [options]
 acceptable-game-versions = []

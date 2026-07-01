@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "da8d4853b6768d462e810d17d76eb008e2abd31be06b4516f4fe74c21740af47"
+hash = "bba3705506df4b1ed7456b3cc211a3c6b61ab571c95dc11a579e2ff49d1eb40b"
 metafile = true
 
 [[files]]
@@ -1023,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "db60a2997420df5321752a33e73eead2b3fa74886ed7869bb873f66d83e639b3"
+hash = "e339ce21a2fcda8c6bdd7183edc37bb1c6e85a1c5a59eca26cbfb7a1b37dd548"
 metafile = true
 
 [[files]]
@@ -1778,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "67bd647fbf8315c99748d09a9bd97ac6a01eb87d3ae273c70dedf2946a2add55"
+hash = "9d0ce01e9ff80060146420eeec13518290affab1237d4eeb0b6362647f501c01"
 metafile = true
 
 [[files]]

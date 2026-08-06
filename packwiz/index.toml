@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/feywild.pw.toml"
-hash = "186e01aa1899b1884c98567ce16351eda19c3835ef83bef43af3d10d7b3a763f"
+hash = "7ba8abb0ea754690b064604c8ab9686dc72b6767524ef6b2b5317b8de0a4998c"
 metafile = true
 
 [[files]]

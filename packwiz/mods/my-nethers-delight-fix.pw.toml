@@ -1,13 +1,13 @@
-name = "My Nether's Delight Fix"
-filename = "mndfix-1.10.0-all.jar"
+name = "Farmer's Delight Addon Fixes"
+filename = "mndfix-1.12.0-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e6bcda3728762d1573719a9fe79b8e25fbcba8aa"
+hash = "9705ebc2ec82ca3469f5bcd7d9b2fe336e6737f5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8278702
+file-id = 8618637
 project-id = 1542689

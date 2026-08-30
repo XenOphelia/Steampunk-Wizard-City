@@ -1,0 +1,13 @@
+name = "Enhanced Celestials 2: Default Lunar Events"
+filename = "Enhanced-Celestials-2-Default-Lunar-Events-Forge-1.20.1-1.0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "577c003ce89d6426cdb5756d5187fb2f2502e2c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8704039
+project-id = 1621820

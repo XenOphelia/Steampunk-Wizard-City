@@ -1,13 +1,13 @@
 name = "Mermod (NeoForge)"
-filename = "mermod-forge-3.0.2+1.20.1.jar"
+filename = "mermod-forge-3.0.3+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4d80eef902349915df97f73ef6cc8f4e4d891dbe"
+hash = "f8953c35f6dd3aed3384705392c12c3eff99272f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7766999
+file-id = 8607616
 project-id = 709092

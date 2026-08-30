@@ -3,14 +3,12 @@ packwiz.exe
 config/oculus.properties.low
 config/oculus-low.pw.toml
 config/oculus-high.pw.toml
+config/dynamic_fps.json
 shaderpacks/ComplementaryReimagined-EuphoriaPatches.txt
 shaderpacks/ComplementaryReimagined-EuphoriaPatches-vr.txt
-shaderpacks/ComplementaryReimagined_r5.7.1-EuphoriaPatches_1.8.6.txt
-shaderpacks/ComplementaryReimagined_r5.7.1-EuphoriaPatches_1.8.6-SupplementalPatches.txt
-shaderpacks/ComplementaryReimagined_r5.8.1-EuphoriaPatches_1.9.2.txt
-shaderpacks/ComplementaryReimagined_r5.8.1-EuphoriaPatches_1.9.2-vr.txt
 shaderpacks/SildursVibrantShaders_v1.51-Lite.zip.txt
 PW-GUI.exe
+PW-GUI-v1.3.0.exe
 update.sh
 .gitmodules
 .git

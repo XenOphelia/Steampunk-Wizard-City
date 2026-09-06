@@ -118,6 +118,14 @@ file = "kubejs/data/botania/recipes/orechid/zinc_ore.json"
 hash = "e1abd6ca82805f729217d0a1c213b3dd4a964e4b550fce0d2f19d3ae3514b040"
 
 [[files]]
+file = "kubejs/data/forge/tags/items/dusts.json"
+hash = "109bd5bcf66e25aa02ba6beb66a095a71b2314f83db8b3c40721f87893509cfc"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/dusts/zinc.json"
+hash = "7276ebbb3d1899344cc438945e5cdd5b2c007f689e9174a9a40fec0825782c9f"
+
+[[files]]
 file = "kubejs/data/occultism/recipes/crushing/zinc_dust.json"
 hash = "e88a67c48736117ff35ca066018723127ee84881a29c903d8cddd09ff8c23724"
 

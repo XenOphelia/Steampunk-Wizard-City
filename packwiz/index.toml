@@ -106,10 +106,6 @@ file = "kubejs/assets/occultism/textures/item/zinc_dust.png"
 hash = "bec8502696d544a30124020c77c1f30e04aa0941c15caea2baecfecc2c8fe4a7"
 
 [[files]]
-file = "kubejs/assets/occultism/textures/item/zinc_dust.xcf"
-hash = "988a61c16f48471c4b9bdcc6c1bbb83d7d4ff09ad67515f49a7606e4ea8b6c53"
-
-[[files]]
 file = "kubejs/data/botania/recipes/orechid/deepslate_zinc_ore.json"
 hash = "c506c67ea880e3111a54b79d2807f0f964bed370d4f9a0a8f809ad59807be8e9"
 

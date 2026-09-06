@@ -115,7 +115,7 @@ hash = "e1abd6ca82805f729217d0a1c213b3dd4a964e4b550fce0d2f19d3ae3514b040"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/dusts.json"
-hash = "109bd5bcf66e25aa02ba6beb66a095a71b2314f83db8b3c40721f87893509cfc"
+hash = "3e5163ee388708f99c0f2a365024a1b734a8cb2cd5cc4ad4f1a19147fb16def2"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/dusts/zinc.json"

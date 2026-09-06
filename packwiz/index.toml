@@ -102,6 +102,14 @@ file = "icon.png"
 hash = "58284fb0d316e86568d91b6bb825c52276b79ce7e182285014c505cfef70dd3b"
 
 [[files]]
+file = "kubejs/data/botania/recipes/orechid/deepslate_zinc_ore.json"
+hash = "c506c67ea880e3111a54b79d2807f0f964bed370d4f9a0a8f809ad59807be8e9"
+
+[[files]]
+file = "kubejs/data/botania/recipes/orechid/zinc_ore.json"
+hash = "e1abd6ca82805f729217d0a1c213b3dd4a964e4b550fce0d2f19d3ae3514b040"
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "ff4f060c7a85b71315a860c7732f68546c1e9a1bd5353070bcd711bea5e3bb9d"
 metafile = true
@@ -974,11 +982,6 @@ metafile = true
 [[files]]
 file = "mods/global-shaderpack-properties.pw.toml"
 hash = "c20ab47ec00cd3f5cc990b8045ee92213cee1fbd3115fc53dfe6bd5c8d15db61"
-metafile = true
-
-[[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "79e3ce5a162a613d8fcc4e7793838c3eb6c39b78901be5c27111242491bfc0bc"
 metafile = true
 
 [[files]]

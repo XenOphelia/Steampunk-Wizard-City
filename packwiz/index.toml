@@ -102,44 +102,12 @@ file = "icon.png"
 hash = "58284fb0d316e86568d91b6bb825c52276b79ce7e182285014c505cfef70dd3b"
 
 [[files]]
-file = "kubejs/assets/occultism/textures/item/zinc_dust.png"
-hash = "bec8502696d544a30124020c77c1f30e04aa0941c15caea2baecfecc2c8fe4a7"
-
-[[files]]
 file = "kubejs/data/botania/recipes/orechid/deepslate_zinc_ore.json"
 hash = "c506c67ea880e3111a54b79d2807f0f964bed370d4f9a0a8f809ad59807be8e9"
 
 [[files]]
 file = "kubejs/data/botania/recipes/orechid/zinc_ore.json"
 hash = "e1abd6ca82805f729217d0a1c213b3dd4a964e4b550fce0d2f19d3ae3514b040"
-
-[[files]]
-file = "kubejs/data/forge/tags/items/dusts.json"
-hash = "3e5163ee388708f99c0f2a365024a1b734a8cb2cd5cc4ad4f1a19147fb16def2"
-
-[[files]]
-file = "kubejs/data/forge/tags/items/dusts/zinc.json"
-hash = "7276ebbb3d1899344cc438945e5cdd5b2c007f689e9174a9a40fec0825782c9f"
-
-[[files]]
-file = "kubejs/data/occultism/recipes/crushing/zinc_dust.json"
-hash = "e88a67c48736117ff35ca066018723127ee84881a29c903d8cddd09ff8c23724"
-
-[[files]]
-file = "kubejs/data/occultism/recipes/crushing/zinc_dust_from_ingot.json"
-hash = "5e9747396901e789bfe64000647ccbcb61efaa1e6cef13d1ca0bbfbb24eb6964"
-
-[[files]]
-file = "kubejs/data/occultism/recipes/crushing/zinc_dust_from_raw.json"
-hash = "f0a2ce42176b16b450c1f81655d7751886ee094591452a776d42b7b18668afaa"
-
-[[files]]
-file = "kubejs/data/occultism/recipes/crushing/zinc_dust_from_raw_block.json"
-hash = "6eb7cc8bcf8505c3b2af0d7700d62536a82392f50619e151efbded8a56cb2b4b"
-
-[[files]]
-file = "kubejs/data/occultism/recipes/smelting/zinc_ingot_from_dust.json"
-hash = "450e79e4100df3ba19faaae421091365ba84d6caafb35b5154c358d43c7e0b7a"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"

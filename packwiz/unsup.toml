@@ -19,13 +19,7 @@ description = "No shaders or extra fancy visual and UI mods.\n<ul><li><b><i>Migh
 name = "Worldgen Structures"
 description = "Do you want to create singleplayer worlds with the same structure generation mods as a server?\n<ul><li>These files are <b>not needed</b> to connect to a server using this modpack</li></ul>"
 side = "both"
-choices = ["worldgen_off", "worldgen_on"]
-
-[flavor_groups.tmrv]
-name = "Faster client world load"
-description = "Use TooManyRecipeViewers as an alternative to JEI that loads faster on the client upon entering a world.\n<ul><li>Recommended for client-side only.</li></ul>"
-side = "both"
-choices = ["tmrv_on", "tmrv_off"]
+choices = ["worldgen_on", "worldgen_off"]
 
 [metafile.oculus]
 flavors = ["eye_candy", "vr"]
@@ -158,9 +152,3 @@ flavors = ["worldgen_on"]
 flavors = ["worldgen_on"]
 [metafile.repurposed-structures-irons-spells-n-spellbooks]
 flavors = ["worldgen_on"]
-
-[metafile.tmrv]
-flavors = ["tmrv_on"]
-
-[metafile.jei]
-flavors = ["tmrv_off"]

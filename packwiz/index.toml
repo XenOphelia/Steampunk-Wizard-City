@@ -48,7 +48,7 @@ hash = "cf776efc99eaa42114d75ad87a8e95a85412ffa18d070d3a3b8c8e57fe2baf55"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "faf5980eefa0f70e87d87482cfcb13386c75129c4adaa614b4445443827c23c9"
+hash = "2c60bc0edf6568461a809a92488c88b32e597139d5e21bd30ac859b49092ea52"
 
 [[files]]
 file = "configureddefaults/config/AdvancedBackups.properties"
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "4054c1418f1998e847ab89ceb60ae7697af23a0e3f97a04e2453cdf7b4005d49"
+hash = "3b5f368003ac1973b50b7355727a5b6b5842ef194d219c0732cd7633ca5d382a"
 metafile = true
 
 [[files]]
@@ -1825,6 +1825,11 @@ hash = "664b98ebed2d34ec58c2700228fd45a923857d0675753290739e1d95f5e69a51"
 metafile = true
 
 [[files]]
+file = "mods/supplemental-patches.pw.toml"
+hash = "6cfd25f7dcfdb42ae4173fc85bae3f99e22c478d44c53b161873052f2e942182"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "d5668b4c6caa507eec30b0486f38fbd172dfae0ef988abe564b73aef083a32cd"
 metafile = true
@@ -2235,18 +2240,26 @@ hash = "ac5eaa7af4d358bb3811d39cd79924807d68ebef6ac25d46f0b90e1efc4d1c01"
 metafile = true
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined-SupplementalPatches-vr.txt"
+hash = "7969169914eae83d71068b9ecb8873a2325c9fd410648266f1ded27ff86222e0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined-SupplementalPatches.txt"
+hash = "b19cf1c26f6bb50c88b1df4cfa14734df187044fa5531cefb99373940f60c8d5"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined-txt-vr.pw.toml"
-hash = "23b612a38450e0fcd04163051a6622e7ba090ef0ba7185404979d635e3f61ef5"
+hash = "35650a7afd847b97b4ad6beb0a0157fe260befd721ed4e2dd135f237e3d8589b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined-txt.pw.toml"
-hash = "25f001292224e93901ee378cd3700225589fb444d0e3ba4e981242b7c4408d9e"
+hash = "f123141f3902bb08c44bc023be569a0d771edc19ab3e5389640029065cfcab56"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f68013e6bae0544db316387cd3c0e27109c1adde67ef7643dbcbe179b6edae69"
+hash = "574494a717f67b34a021688f6d0353b220870d7dfb8b64f470b954129b1b6a90"
 metafile = true
 
 [[files]]

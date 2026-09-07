@@ -6,5 +6,5 @@
   "ingredient": {
     "tag": "forge:dusts/zinc"
   },
-  "result": "minecraft:zinc_ingot"
+  "result": "create:zinc_ingot"
 }

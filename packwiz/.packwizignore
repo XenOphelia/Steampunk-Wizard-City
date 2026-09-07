@@ -8,9 +8,7 @@ shaderpacks/ComplementaryReimagined-EuphoriaPatches.txt
 shaderpacks/ComplementaryReimagined-EuphoriaPatches-vr.txt
 shaderpacks/SildursVibrantShaders_v1.51-Lite.zip.txt
 kubejs/assets/occultism/textures/item/zinc_dust.xcf
-kubejs/assets
-kubejs/data/forge
-kubejs/data/occultism
+kubejs/server_scripts/ModCompat.js
 PW-GUI.exe
 PW-GUI-v1.3.0.exe
 update.sh

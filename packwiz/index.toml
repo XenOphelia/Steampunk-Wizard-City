@@ -27,6 +27,10 @@ hash = "04311fa4f63823a71504e3cfbae5a629eca45b9dd02cc33ec5092f6e8f3d85f6"
 metafile = true
 
 [[files]]
+file = "config/enhancedcelestials2core/translations.json"
+hash = "0181e8e9702984275b05076d3252213aa6fc58cb09bfeffc1cec2694cef6a896"
+
+[[files]]
 file = "config/immersive_mc-client.json"
 hash = "cb4731a025abb025d9cfbd8922b696ef010c82078ad3b50c02608999f63302e3"
 
@@ -181,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "40bab1828ae2b4d755db64f1c887a2fe06171fad6ab54d4a1863ca5c30ff9b55"
+hash = "7b112d9281dc3bf615e7f2eac0fac8f42688b3239c2ddd5e448c9588638b0a09"
 metafile = true
 
 [[files]]
@@ -197,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "4327ca177fdbd9cfc0c2f442bec68899b6c8e8eb46f0e6b04548178c244b6a84"
+metafile = true
+
+[[files]]
+file = "mods/animationjs.pw.toml"
+hash = "6162c036865d4b24179c0e72bab8af349aeb133b36f9262579465c6c417b11b3"
 metafile = true
 
 [[files]]
@@ -346,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "81926d253de0a8ff9520fb51a5b34394a020cd56c2a063e71ce4187d9b33e891"
+hash = "dadb84a2306529f1b93c743453bbc0dbc01908788e4ee6389fc0d5432e6f2787"
 metafile = true
 
 [[files]]
@@ -506,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "6966d1399f52ddf61843dfe913e232ccc15012128012322b82034bef1adf63ad"
+hash = "11b62d086529833b454fdd6de19798baacbb078d16683c1b0ce4c421d4a9dafb"
 metafile = true
 
 [[files]]
@@ -806,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-backport.pw.toml"
-hash = "e811952ad864917a7f6c6776c267e01f9b9403d3c2931283b70ee688b38a364d"
+hash = "58711a9362d8aaf7d15c0cbcefc801f14851936f67928fcf10f94b65ee035616"
 metafile = true
 
 [[files]]
@@ -881,27 +890,32 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials-2-core.pw.toml"
-hash = "1de94bb48896ad795b7c656a424e0c28f81066394527f8e5cdb4837d64f18204"
+hash = "0dfdb27f75c3c5c022aab4f8a5b771b1e62a9069763b17de4527e029a8b85c01"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials-2-default-lunar-events.pw.toml"
-hash = "1dd8180b279e3e2d886c2199e896c30642cab1d9a7dd40f63c2d6118a1e7f027"
+hash = "97aeaa79addfa7794b88f267b17ecdc968add935870f941b2116d3aabeb8e85a"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials-2-shader-support.pw.toml"
-hash = "35d143abb407db16bd86c919f3c7c8f95972aaf3307dbf8f6dc3f9d469232a3e"
+hash = "f720bd6622f2fb1e36c1dd90d01d3af9c6ba981139aca7058a0ec1a04a141df7"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8ac7c43d8a244d156ecba557ca9e3bb46719d8e86328fd1feadd84252a8146de"
+hash = "2fbbb29ea04f07e80ee93a5b373829395991bc7b9143210f07585c1066d36da4"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "d3a91113ce5377da923b40026dd4f6ffcdf99abae5220405a76caef9ba18f671"
+hash = "77ae12439c833f82e7d87180917cd970c921e9fa37de20f40e66cf9daffb3e5e"
+metafile = true
+
+[[files]]
+file = "mods/entityjs.pw.toml"
+hash = "998986eff84ed344b4d6112be04cdc123770ec0e66d0c61799e1952c0013c768"
 metafile = true
 
 [[files]]
@@ -956,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/feywild.pw.toml"
-hash = "9e75ac4e22e697d5717e5ddaf0be0d4dcfec4a6cac04c4ab447b5a857108ff65"
+hash = "7bea0c29279ba845de093278ac928417a637adee6c7d14fdd7957e69f88de793"
 metafile = true
 
 [[files]]
@@ -1096,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.pw.toml"
-hash = "37de04fa0bea5fb966f2352f3d9734656a0c218cb829d5188c5e36376677f4dd"
+hash = "316b8b591958b969ee84d72137c05e4401ac68416697e054c542851724d0ae50"
 metafile = true
 
 [[files]]
@@ -1320,6 +1334,11 @@ hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
+file = "mods/lios-player-animator-api.pw.toml"
+hash = "708776677ef35650715fe2ff6b6071a7b7231b2b8781aa172003c3b57c138089"
+metafile = true
+
+[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
@@ -1431,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "07baf15b51208bf55b817db71d228e2d54ba59b92a125e06206fb8f4b9a37a5b"
+hash = "5996e886bd284d7a20287355ab42a7f5df7f6cce90fe74b04223cd55a4fd6c5d"
 metafile = true
 
 [[files]]
@@ -1666,7 +1685,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "30ba8aa40dff43ad68be33f9779596ff777f9ec0593586383499dec03c6240c7"
+hash = "774e68c09af213072b046cbd8253384bf25f71007d93ae02db3e14561eebea76"
 metafile = true
 
 [[files]]
@@ -1726,7 +1745,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "2720aee58db6299559f89ea9dc8b1d573b8324f2b4af1e594c5239607585487b"
+hash = "b3e39831fb574d728076ef95c969e8ca578ab6a3eb499a35718dd9b71d5cdfe4"
 metafile = true
 
 [[files]]
@@ -1851,7 +1870,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "940bf7dce727e2d62ca8240a92005367c8e81f505c5a17fc6dfe62174856680e"
+hash = "111d851176843b22f6f3b6d096ab202fead7d41edb14fc6d7858bd85cc8497d3"
 metafile = true
 
 [[files]]
@@ -1991,7 +2010,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "6d467c3aa2235b5c615209fa8198cbf3cfd2310f368943360e82b5ce28023d0e"
+hash = "0de1983416103bf5acf90f6c25264eead46d349b00d94a97afb2e436e54208b2"
 metafile = true
 
 [[files]]
@@ -2126,7 +2145,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
-hash = "6a896b3e2d19f7084dbd4c0b3ca7e483674ea0be3beb8448ea999f73d2fa2fb7"
+hash = "48b74c1b51fee0e2083c2b1320f12149cb5db77405d0da4f02f12e5d2bf8ec05"
 metafile = true
 
 [[files]]

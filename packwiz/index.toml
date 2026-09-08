@@ -52,7 +52,7 @@ hash = "cf776efc99eaa42114d75ad87a8e95a85412ffa18d070d3a3b8c8e57fe2baf55"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "2c60bc0edf6568461a809a92488c88b32e597139d5e21bd30ac859b49092ea52"
+hash = "8c254043c33fe43732bd896c348e8b5563ef07859b4f59aece649c25174bfae5"
 
 [[files]]
 file = "configureddefaults/config/AdvancedBackups.properties"

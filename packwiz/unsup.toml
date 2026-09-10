@@ -1,6 +1,6 @@
 [flavor_groups.visual_quality]
-name = "Visual Quality"
-description = "Graphics & Performance"
+name = "Graphics & Performance"
+description = "How you want it to look and perform"
 side = "client"
 [[flavor_groups.visual_quality.choices]]
 id = "eye_candy"
@@ -14,6 +14,19 @@ description = "Lower default settings to help with performance, while also balan
 id = "potato"
 name = "Potato"
 description = "No shaders or extra fancy visual and UI mods. \n<ul><li><b><i>Should</i> improve performance</b> on low-end PC's</li><li>Some UI improvements will still be selected just for QOL</li><li>Will look closer to Vanilla Minecraft</li></ul>"
+
+[flavor_groups.recipe_viewer]
+name = "Recipe Viewer"
+description = "Graphics & Performance"
+side = "client"
+[[flavor_groups.recipe_viewer.choices]]
+id = "tmrv"
+name = "Faster World Load"
+description = "Install Too Many Recipe Viewers"
+[[flavor_groups.recipe_viewer.choices]]
+id = "jei"
+name = "More Compatible"
+description = "Install Just Enough Information"
 
 [flavor_groups.worldgen]
 name = "Worldgen Structures"
@@ -57,6 +70,11 @@ flavors = ["eye_candy", "vr"]
 flavors = ["eye_candy", "vr"]
 [metafile.skin-layers-3d]
 flavors = ["eye_candy", "vr"]
+
+[metafile.tmrv]
+flavors = ["tmrv"]
+[metafile.jei]
+flavors = ["jei"]
 
 [metafile.additional-structures]
 flavors = ["worldgen_on"]

@@ -1,46 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ars_nouveau-client.toml"
-hash = "de200177dde2a1fe03f6db2bf8c6d527f0be44d86d5a866f168d77387cd06b2b"
-
-[[files]]
-file = "config/botania-client.toml"
-hash = "48f301496789c955b5c70d8e071f330941e170bec67b197b428466cb11c780b1"
-
-[[files]]
-file = "config/colorwheel-client.pw.toml"
-hash = "7a6c3290b9593aa0e0496ab5e10e72c2c0694c550d403594f6eca699fed7ebb4"
-metafile = true
-
-[[files]]
 file = "config/colorwheel-client.toml"
 hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
-
-[[files]]
-file = "config/connectivity.json"
-hash = "569828d902dc437bf88f8bfc49c7dc3e2b12c49295cc8b137b1c64ca6422d052"
-
-[[files]]
-file = "config/dynamic_fps.pw.toml"
-hash = "04311fa4f63823a71504e3cfbae5a629eca45b9dd02cc33ec5092f6e8f3d85f6"
-metafile = true
-
-[[files]]
-file = "config/enhancedcelestials2core/translations.json"
-hash = "0181e8e9702984275b05076d3252213aa6fc58cb09bfeffc1cec2694cef6a896"
-
-[[files]]
-file = "config/immersive_mc-client.json"
-hash = "cb4731a025abb025d9cfbd8922b696ef010c82078ad3b50c02608999f63302e3"
-
-[[files]]
-file = "config/immersive_mc-server.json"
-hash = "4b18681c6a0958b8154eb8ab8f9293545b24100110500aadfe6448aabd39beaa"
-
-[[files]]
-file = "config/mantle-client.toml"
-hash = "c390daa14dea3ec18a1b2a0c15de43d4a3c249f8359aaa32bd6d482bc4aaafea"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
@@ -59,12 +21,50 @@ file = "configureddefaults/config/AdvancedBackups.properties"
 hash = "8c837a4aa54999589e2bf7e293115873daa31fe138c932cc9e37744527230760"
 
 [[files]]
+file = "configureddefaults/config/ars_nouveau-client.toml"
+hash = "de200177dde2a1fe03f6db2bf8c6d527f0be44d86d5a866f168d77387cd06b2b"
+
+[[files]]
+file = "configureddefaults/config/botania-client.toml"
+hash = "48f301496789c955b5c70d8e071f330941e170bec67b197b428466cb11c780b1"
+
+[[files]]
+file = "configureddefaults/config/colorwheel-client.pw.toml"
+hash = "7a6c3290b9593aa0e0496ab5e10e72c2c0694c550d403594f6eca699fed7ebb4"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/connectivity.json"
+hash = "569828d902dc437bf88f8bfc49c7dc3e2b12c49295cc8b137b1c64ca6422d052"
+
+[[files]]
+file = "configureddefaults/config/dynamic_fps.pw.toml"
+hash = "04311fa4f63823a71504e3cfbae5a629eca45b9dd02cc33ec5092f6e8f3d85f6"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/enhancedcelestials2core/translations.json"
+hash = "0181e8e9702984275b05076d3252213aa6fc58cb09bfeffc1cec2694cef6a896"
+
+[[files]]
 file = "configureddefaults/config/entity_texture_features.json"
 hash = "1e2dc1913d802295d45faca7490bbce27ab69a7fb1ca410ee28ec7d3f7b4f47a"
 
 [[files]]
 file = "configureddefaults/config/feywild-common.toml"
 hash = "caed0da152fa1c1a29d707b8980aada25168b8dbbbde485ea0fbd403a695e6a3"
+
+[[files]]
+file = "configureddefaults/config/immersive_mc-client.json"
+hash = "cb4731a025abb025d9cfbd8922b696ef010c82078ad3b50c02608999f63302e3"
+
+[[files]]
+file = "configureddefaults/config/immersive_mc-server.json"
+hash = "4b18681c6a0958b8154eb8ab8f9293545b24100110500aadfe6448aabd39beaa"
+
+[[files]]
+file = "configureddefaults/config/mantle-client.toml"
+hash = "c390daa14dea3ec18a1b2a0c15de43d4a3c249f8359aaa32bd6d482bc4aaafea"
 
 [[files]]
 file = "configureddefaults/config/omegamute/soundmap.txt"
@@ -85,6 +85,21 @@ hash = "567e924b1e00320742f7c3bcd767fb6afdb3e32ba00a17ae6aa81e1cb15aae3d"
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "05aa12e7e89f8b32f6d88e82c722a3ec2515090153225f43335dd5b7d8acd205"
+
+[[files]]
+file = "configureddefaults/shaderpacks/complementary-reimagined-txt-vr.pw.toml"
+hash = "35650a7afd847b97b4ad6beb0a0157fe260befd721ed4e2dd135f237e3d8589b"
+metafile = true
+
+[[files]]
+file = "configureddefaults/shaderpacks/complementary-reimagined-txt.pw.toml"
+hash = "f123141f3902bb08c44bc023be569a0d771edc19ab3e5389640029065cfcab56"
+metafile = true
+
+[[files]]
+file = "configureddefaults/shaderpacks/sildurs-vibrant-shaders-txt.pw.toml"
+hash = "d322d2ab4a02c8f9ed8ba15683f94b95f7224028dbe8f580e8a05b97f67879c5"
+metafile = true
 
 [[files]]
 file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
@@ -420,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a4699698ae914695c8029a6a827fe9740f525f107e3caf06f78946d36d3f3497"
+hash = "aa1bbd13276266d2a026782a09387360b21bca37c308fcf74bde979e35aef726"
 metafile = true
 
 [[files]]
@@ -585,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-better-fps.pw.toml"
-hash = "7174fa82dc560820c6e33d319196c1016aed26152b626f01c399c83d16f62549"
+hash = "2559b8f946b070209e2679b7c2796e41433fe5472f734be9aa743b6495dcc52f"
 metafile = true
 
 [[files]]
@@ -815,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-backport.pw.toml"
-hash = "58711a9362d8aaf7d15c0cbcefc801f14851936f67928fcf10f94b65ee035616"
+hash = "57d7b5e1d9a50de91131d9322f2e702553a73ba1005098e08dd5dd9ea5b03b74"
 metafile = true
 
 [[files]]
@@ -900,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials-2-shader-support.pw.toml"
-hash = "f720bd6622f2fb1e36c1dd90d01d3af9c6ba981139aca7058a0ec1a04a141df7"
+hash = "1dece41864807480ed33aaa7ee79b23b22a049710c895f8af9fa8759760f51ab"
 metafile = true
 
 [[files]]
@@ -1010,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "6499131eb811f49b5cf2523463805272f422b3d7fb6e2189264fb18d2cd25754"
+hash = "1d152e5da00fd2128027d6412576d5cc1da57e57529b15ec53c2d612d2c6ae41"
 metafile = true
 
 [[files]]
@@ -1085,12 +1100,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-machinery.pw.toml"
-hash = "abf30f9ed0ce36e9df7b1e9d57a29a31d1302168c50bdfa1e2f47cf05ff60c95"
+hash = "684a8285fe7964576a563b7806f51ba62f04077232a5bf1de3312926d5ec1817"
 metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "db2eb84013dda063078898d1f87b88f63a909bb7c4cf9a52ec2ebc25ffd841d1"
+hash = "d001f5941cbfa6c9fc9821756bbbc137bb822fbb7c89c314533f84f4c3b431b2"
 metafile = true
 
 [[files]]
@@ -1165,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6ae21c787985e057c967154684107cd3611cfcdac1e5b14dbfabe5d40221ffe3"
+hash = "ed7c4a52556db3c252ceb69be09a1b5b8f30d4088cef456d9dcc235ab6948870"
 metafile = true
 
 [[files]]
@@ -1515,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/nolijium.pw.toml"
-hash = "18c3f57ccdf5e6057fe24e07a0678a520a4a3b64ae7749060c9e96b6dad52aca"
+hash = "2f38c188ed848a16b463ba1c2dd66bddd6f052ac5a4d4dfac8e207eaee65416f"
 metafile = true
 
 [[files]]
@@ -1575,7 +1590,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "f86bd972b278c413b55ba923b9b390ff435ce104c2c072d2cd09e033c89fe054"
+hash = "b54e2ac8f9ebf54af08e84db20b9d38cc7f955124f30b8dbcd84f0b7ae7ed9ed"
 metafile = true
 
 [[files]]
@@ -1780,7 +1795,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "d4da08c29def5f4fbefdb625e5b6d09913407697993f4be56e86e71e801d6dee"
+hash = "71cdfe08c3824cb02956838c327130215dee6f25f1c3dcb1b179d22c77c4188b"
 metafile = true
 
 [[files]]
@@ -1885,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplemental-patches.pw.toml"
-hash = "6cfd25f7dcfdb42ae4173fc85bae3f99e22c478d44c53b161873052f2e942182"
+hash = "20546f1b1246777bdac116b4fd3a463ea5047b80a224cef6dd7cf7f2abab270e"
 metafile = true
 
 [[files]]
@@ -2307,23 +2322,8 @@ file = "shaderpacks/ComplementaryReimagined-SupplementalPatches.txt"
 hash = "b19cf1c26f6bb50c88b1df4cfa14734df187044fa5531cefb99373940f60c8d5"
 
 [[files]]
-file = "shaderpacks/complementary-reimagined-txt-vr.pw.toml"
-hash = "35650a7afd847b97b4ad6beb0a0157fe260befd721ed4e2dd135f237e3d8589b"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined-txt.pw.toml"
-hash = "f123141f3902bb08c44bc023be569a0d771edc19ab3e5389640029065cfcab56"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "574494a717f67b34a021688f6d0353b220870d7dfb8b64f470b954129b1b6a90"
-metafile = true
-
-[[files]]
-file = "shaderpacks/sildurs-vibrant-shaders-txt.pw.toml"
-hash = "d322d2ab4a02c8f9ed8ba15683f94b95f7224028dbe8f580e8a05b97f67879c5"
 metafile = true
 
 [[files]]

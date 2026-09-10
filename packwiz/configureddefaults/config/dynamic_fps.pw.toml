@@ -1,0 +1,8 @@
+name = "Dynamic FPS"
+filename = "dynamic_fps.json"
+side = "client"
+
+[download]
+url = "https://github.com/XenOphelia/Steampunk-Wizard-City/raw/refs/heads/main/packwiz/config/dynamic_fps.json"
+hash-format = "sha256"
+hash = "75a0274da9e7ccd497a9e0a35a3a950e4a8aae3b33b40e54924f704d57d78192"

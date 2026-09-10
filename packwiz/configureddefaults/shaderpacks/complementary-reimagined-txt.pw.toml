@@ -1,0 +1,11 @@
+name = "Complementary Shaders - Reimagined High Settings"
+side = "client"
+filename = "Supplemental Patches 1.0.1.txt"
+
+[download]
+url = "https://raw.githubusercontent.com/XenOphelia/Steampunk-Wizard-City/refs/heads/main/packwiz/shaderpacks/ComplementaryReimagined-SupplementalPatches.txt"
+hash-format = "sha256"
+hash = "b19cf1c26f6bb50c88b1df4cfa14734df187044fa5531cefb99373940f60c8d5"
+
+[option]
+optional = true

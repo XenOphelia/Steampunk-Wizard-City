@@ -22,11 +22,11 @@ side = "client"
 [[flavor_groups.recipe_viewer.choices]]
 id = "tmrv"
 name = "Faster World Load"
-description = "Install Too Many Recipe Viewers"
+description = "Install Too Many Recipe Viewers (TMRV)"
 [[flavor_groups.recipe_viewer.choices]]
 id = "jei"
-name = "More Compatible"
-description = "Install Just Enough Information"
+name = "Maybe More Compatible"
+description = "Install Just Enough Information (JEI)"
 
 [flavor_groups.worldgen]
 name = "Worldgen Structures"

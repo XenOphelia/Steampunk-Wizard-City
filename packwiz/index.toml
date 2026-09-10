@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a71346929eed8d621017415ada036b8e813253fd2fab3be7e863a80a1b7079cc"
+hash = "050881c6d0b5231a3d38d933d2b341526c7badd5c8ea81085072c720bc646e05"
 metafile = true
 
 [[files]]
@@ -1990,7 +1990,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "b7558838bbd752bf032bf5c3bd311e301af7389223f1902127a4111ae919d741"
+hash = "d5308b926d7d7c2a8b26c786a23bac44622dd115bdffaf345d0a66eeb4acb75d"
 metafile = true
 
 [[files]]

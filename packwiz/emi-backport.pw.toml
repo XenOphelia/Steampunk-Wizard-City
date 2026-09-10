@@ -1,0 +1,13 @@
+name = "Reliable EMI (REMI)"
+filename = "remi-forge-1.20.1-4.6.9.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ea891173359e66e5bd27cb5e7809f3a2b73c0f0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8841088
+project-id = 1411826

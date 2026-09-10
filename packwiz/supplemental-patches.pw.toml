@@ -1,0 +1,15 @@
+name = "Supplemental Patches"
+side = "client"
+filename = "supplemental_patches-1.0.1+1.20.1-forge.jar"
+
+[update.curseforge]
+file-id = 8811215
+project-id = 1222851
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "00a43b69c865e72ef82c84e86985bdaac4452141"
+
+[option]
+optional = true

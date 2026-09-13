@@ -6,9 +6,11 @@ config/oculus-high.pw.toml
 config/dynamic_fps.json
 shaderpacks/ComplementaryReimagined-EuphoriaPatches.txt
 shaderpacks/ComplementaryReimagined-EuphoriaPatches-vr.txt
+shaderpacks/ComplementaryReimagined-SupplementalPatches.txt
+shaderpacks/ComplementaryReimagined-SupplementalPatches-vr.txt
 shaderpacks/SildursVibrantShaders_v1.51-Lite.zip.txt
 kubejs/assets/occultism/textures/item/zinc_dust.xcf
-kubejs/server_scripts/ModCompat.js
+kubejs/probe
 PW-GUI.exe
 PW-GUI-v1.3.0.exe
 update.sh

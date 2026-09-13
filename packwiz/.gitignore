@@ -1,0 +1,11 @@
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+kubejs/assets/occultism/textures/item/zinc_dust.xcf
+kubejs/probe
+PW-GUI.exe
+PW-GUI-v1.3.0.exe
+packwiz.exe

@@ -5,12 +5,8 @@ file = "config/colorwheel-client.toml"
 hash = "75ed79f73ba18c3a5cb4a691cfebb6cc003dce483a1164b1e5ba3188d188b56b"
 
 [[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "1ff36516743184cc5359268b8970f49309dc73d606778e70e90c8739b5986e03"
-
-[[files]]
-file = "config/modpack-update-checker/modpack-info.txt"
-hash = "cf776efc99eaa42114d75ad87a8e95a85412ffa18d070d3a3b8c8e57fe2baf55"
+file = "config/crash_assistant/config.toml"
+hash = "2077cb93366c110dbb11927d7eb23480809cc344b98ee99280c4fb53e5bbee9c"
 
 [[files]]
 file = "config/oculus.properties"
@@ -129,6 +125,10 @@ file = "kubejs/assets/occultism/textures/item/zinc_dust.png"
 hash = "bec8502696d544a30124020c77c1f30e04aa0941c15caea2baecfecc2c8fe4a7"
 
 [[files]]
+file = "kubejs/config/client.properties"
+hash = "ed5f68bc6418b416baf46f84ff342fc07bc4abeb1cf51a97fac866d889c791b3"
+
+[[files]]
 file = "kubejs/data/botania/recipes/orechid/deepslate_zinc_ore.json"
 hash = "c506c67ea880e3111a54b79d2807f0f964bed370d4f9a0a8f809ad59807be8e9"
 
@@ -163,6 +163,10 @@ hash = "6eb7cc8bcf8505c3b2af0d7700d62536a82392f50619e151efbded8a56cb2b4b"
 [[files]]
 file = "kubejs/data/occultism/recipes/smelting/zinc_ingot_from_dust.json"
 hash = "44235ebc4c1fea2db7112ceca0e228e482361c7b501e0c2cb5f1d5f0f14a1182"
+
+[[files]]
+file = "kubejs/server_scripts/ModCompat.js"
+hash = "7fc822f7fc14d9fd8173fac3233b64bfc2c5786a9631ad140e9a563dd1e871a3"
 
 [[files]]
 file = "kubejs/startup_scripts/ModCompat.js"
@@ -310,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
+hash = "f18220cf1209a410821c742e9e5ee3fa54bebaf07db340557990a4b20664a357"
 metafile = true
 
 [[files]]
@@ -940,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3b5f368003ac1973b50b7355727a5b6b5842ef194d219c0732cd7633ca5d382a"
+hash = "8621c6a42ad985c520cb7f6e6095e0f56bc80beb391e6fe40ffa0288f44a61e4"
 metafile = true
 
 [[files]]
@@ -965,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "03f97e75e914b11e34d97a125d9c9842dcfdf325836704ce1b8a004b8ab8e523"
+hash = "433969faa154861adbd3950ed55c65b66483198129710df78d904bddc4641a85"
 metafile = true
 
 [[files]]
@@ -1095,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "2e77351b35f4e159c107a7a71c87f0e663733009057128d07e5b21752c11f493"
+hash = "e410d61a7906f69a6d617ec8c05b92bf0139a537a44d6664a6516c8a19ad6e77"
 metafile = true
 
 [[files]]
@@ -1130,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "bfbb5386d90025e476d833abefaa1d31c26b61f4690db90422ede763b64efe9e"
+hash = "649cc084e8951127e8ceb1f787db45f1aa3e9d2de83537ea041f1573ba469e3f"
 metafile = true
 
 [[files]]
@@ -1425,7 +1429,7 @@ metafile = true
 
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
-hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
+hash = "80967bcfc683b511314ece3297847846fb1bc21e6d42ebe76fbe51cd674a3c63"
 metafile = true
 
 [[files]]
@@ -1471,11 +1475,6 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "80124bd3e7bc9917e41ee22534baddfd0578f1cad90906e4c5f0c8966ce1367a"
-metafile = true
-
-[[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "57d9cc435a21d67dc50a5610fa5f4587d8f8375d17805eceecc2fa95d3b2392a"
 metafile = true
 
 [[files]]
@@ -1649,6 +1648,11 @@ hash = "eb80a866d9ff6e07d70d78a903456d3bab45436ecb1741421943aa119809e622"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "25f4863fba654a2b603a90f52ce5f0e17871c4249fd5c7bef3d40a6c8d9e36de"
+metafile = true
+
+[[files]]
 file = "mods/protection-pixel.pw.toml"
 hash = "07ce28c77d2ef8ffcfa8f8a961008b1553354d380cdc2918f2c35527a9ad528c"
 metafile = true
@@ -1695,7 +1699,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "a4077061cbd7edf4b2170a3136aebdada0431db21bf478fed3f623c9cb353ee2"
+hash = "87b050594db96f75746bca6c526db014b51e6538521862aef6c729a0a00ba081"
 metafile = true
 
 [[files]]
@@ -2100,7 +2104,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "5ab6f2a4a50bd53506496d3da0c2c09d5a3ca363c3ebc7ca8641ecd3f7104365"
+hash = "4bbb339934e6c74bc6129359abe75464f4652defffa6ae28624fbc3d1916c614"
 metafile = true
 
 [[files]]
@@ -2125,12 +2129,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f28ffb70c21c93c159fa1035032b8dc28add5c2d60425c2834908d663d4725fc"
+hash = "072dc48d387fa47076fa27fc82385b1cd79c28591a12d57f27d72d346567c994"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c7d38bde9d8255b52786ab99e29ca0198fb0e407af3e638fad6a7807070361b8"
+hash = "4c9f65c5e0fe287316585983626390dfc68b34c99c2cc6700d4572759f29db0e"
 metafile = true
 
 [[files]]
@@ -2314,16 +2318,8 @@ hash = "ac5eaa7af4d358bb3811d39cd79924807d68ebef6ac25d46f0b90e1efc4d1c01"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined-SupplementalPatches-vr.txt"
-hash = "7969169914eae83d71068b9ecb8873a2325c9fd410648266f1ded27ff86222e0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined-SupplementalPatches.txt"
-hash = "b19cf1c26f6bb50c88b1df4cfa14734df187044fa5531cefb99373940f60c8d5"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "574494a717f67b34a021688f6d0353b220870d7dfb8b64f470b954129b1b6a90"
+hash = "d55c8319d5c6c7c9c7fbd9272abae46362cec23e038282f981e16c042cd03a70"
 metafile = true
 
 [[files]]

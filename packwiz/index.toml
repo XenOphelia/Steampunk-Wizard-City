@@ -166,7 +166,7 @@ hash = "44235ebc4c1fea2db7112ceca0e228e482361c7b501e0c2cb5f1d5f0f14a1182"
 
 [[files]]
 file = "kubejs/server_scripts/ModCompat.js"
-hash = "7fc822f7fc14d9fd8173fac3233b64bfc2c5786a9631ad140e9a563dd1e871a3"
+hash = "181b75636a6c7b298af1e0fa2e28a62955f66ef2abc01707ef64d98690b8cd22"
 
 [[files]]
 file = "kubejs/startup_scripts/ModCompat.js"
@@ -220,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "4327ca177fdbd9cfc0c2f442bec68899b6c8e8eb46f0e6b04548178c244b6a84"
-metafile = true
-
-[[files]]
-file = "mods/animationjs.pw.toml"
-hash = "6162c036865d4b24179c0e72bab8af349aeb133b36f9262579465c6c417b11b3"
 metafile = true
 
 [[files]]
@@ -888,6 +883,11 @@ hash = "3b8dacbd1cd0e3d849b080473559fd26e4268e396075ad37d0fdf7031ee9dc97"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft-borrow-their-emote.pw.toml"
+hash = "2bd9060b45342f57411934d31aaa59abe54145a2915a1c2411c7418593dd0cd7"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "bb5b3abe0f187ccde0bbbdbad7dcbc9ff513c8ce0d8770deee7fa3fe7fa5e08c"
 metafile = true
@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "433969faa154861adbd3950ed55c65b66483198129710df78d904bddc4641a85"
+hash = "18bdc74b86625b10c6dad32d42834697ca873d21c7fa39b93d91228818ed35b0"
 metafile = true
 
 [[files]]
@@ -1353,11 +1353,6 @@ hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
-file = "mods/lios-player-animator-api.pw.toml"
-hash = "708776677ef35650715fe2ff6b6071a7b7231b2b8781aa172003c3b57c138089"
-metafile = true
-
-[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
@@ -1480,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/morejs.pw.toml"
 hash = "df7a58af5cb547cb765642ee4ed563fa15c59d9e6f44d99229541d4d1d32c84b"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "b6aa1ec50301ceca73fc709670dd07c39f9e384000be39a57e2744def530cfca"
 metafile = true
 
 [[files]]
@@ -1625,6 +1625,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/playeranimatorapi.pw.toml"
+hash = "96d42514d378291fcb4f2c90fa01ff12378af322e66bf3d5f901be8dabe21b3d"
 metafile = true
 
 [[files]]

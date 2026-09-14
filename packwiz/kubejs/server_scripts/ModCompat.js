@@ -11,6 +11,7 @@
 
 // Listen for the "recipes" server event.
 ServerEvents.recipes(event => {
+  console.log('Hello! The recipe event has fired!')
   // You can replace `event` with any name you like, as
   // long as you change it inside the callback too!
 
@@ -28,7 +29,6 @@ ServerEvents.recipes(event => {
           'ars_nouveau:water_essence'
      ]
 
-     console.log('Hello! The recipe event has fired!')
      essences.forEach(essence => { // Duplicate Essences with Liquid Source
           event.recipes.create.mixing(
                `2x ${essence}`,
@@ -37,5 +37,5 @@ ServerEvents.recipes(event => {
                     `${essence}`
                ]
           )
-      }) // End of EssenceList
+      }) // End of Essences Recipe
 })

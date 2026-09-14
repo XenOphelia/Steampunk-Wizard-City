@@ -1,0 +1,12 @@
+name = "Emotecraft: Borrow Their Emote (EBTE)"
+side = "client"
+filename = "emotecraft-borrow-their-emote-1.0.1+1.20.1+forge.jar"
+
+[update.curseforge]
+file-id = 8612085
+project-id = 1590584
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "56a8d0b199da8e0b06de9b8e93d0c9c7985ec820"

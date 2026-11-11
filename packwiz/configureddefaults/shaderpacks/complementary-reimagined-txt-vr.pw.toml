@@ -1,6 +1,6 @@
 name = "Complementary Shaders - Reimagined Low Settings"
 side = "client"
-filename = "Supplemental Patches 1.0.1.txt"
+filename = "Supplemental Patches 1.0.2.txt"
 
 [download]
 url = "https://raw.githubusercontent.com/XenOphelia/Steampunk-Wizard-City/refs/heads/main/packwiz/shaderpacks/ComplementaryReimagined-SupplementalPatches-vr.txt"

@@ -1,15 +1,16 @@
 name = "Supplemental Patches"
+filename = "supplemental_patches-1.0.2+1.20.1-forge.jar"
 side = "client"
-filename = "supplemental_patches-1.0.1+1.20.1-forge.jar"
-
-[update.curseforge]
-file-id = 8811215
-project-id = 1222851
 
 [download]
-mode = "metadata:curseforge"
 hash-format = "sha1"
-hash = "00a43b69c865e72ef82c84e86985bdaac4452141"
+hash = "7bf8359cb63f15244a8efc51d7294f24614910ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8950014
+project-id = 1222851
 
 [option]
 optional = true

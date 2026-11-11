@@ -1,6 +1,7 @@
 name = "WATERMeDIA: Multimedia API"
 side = "client"
 filename = "watermedia-2.1.37.jar"
+pin = true
 
 [update.curseforge]
 file-id = 7281929

@@ -1,13 +1,13 @@
 name = "Lexiconfig"
-filename = "lexiconfig-forge-1.4.21-epic.jar"
+filename = "lexiconfig-forge-1.4.22-epic.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "824b05b4977fe31092ed66fb9f0f4b5415c1a8ec"
+hash = "d4f37b22af12aaaf8f9ca857e545b6b5058816da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8208798
+file-id = 9336176
 project-id = 1019452

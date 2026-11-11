@@ -1,13 +1,13 @@
-name = "Magic Vibe Decorations (Crystals, Halloween)"
-filename = "magic_vibe_decorations-1.0.4-forge-1.20.1.jar"
+name = "Magic Vibe Decorations"
+filename = "magic_vibe_decorations-4.0.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d57ba43b1672d778dbfa58fe776dd3a6e86d6906"
+hash = "46014a33801b5c39bdb38549c4a7d59e7d29a0f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5795241
+file-id = 9174234
 project-id = 900435

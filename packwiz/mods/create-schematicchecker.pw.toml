@@ -1,13 +1,13 @@
 name = "Create: Schematic Checker"
-filename = "CreateSchematicChecker-2.27.45-6.0-forge-1.20.1.jar"
+filename = "CreateSchematicChecker-2.27.47-6.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "73e93a24122a274c06d6918d7882ee72ad92cd94"
+hash = "afa67d2538ccb5974ef1fc2ef47652e3e889382f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8729500
+file-id = 8988754
 project-id = 1357430

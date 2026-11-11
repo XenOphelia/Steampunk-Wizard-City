@@ -15,21 +15,8 @@ id = "potato"
 name = "Potato"
 description = "No shaders or extra fancy visual and UI mods. \n<ul><li><b><i>Should</i> improve performance</b> on low-end PC's</li><li>Some UI improvements will still be selected just for QOL</li><li>Will look closer to Vanilla Minecraft</li></ul>"
 
-[flavor_groups.recipe_viewer]
-name = "Recipe Viewer"
-description = "Graphics & Performance"
-side = "client"
-[[flavor_groups.recipe_viewer.choices]]
-id = "tmrv"
-name = "Faster World Load"
-description = "Install Too Many Recipe Viewers (TMRV)"
-[[flavor_groups.recipe_viewer.choices]]
-id = "jei"
-name = "Maybe More Compatible"
-description = "Install Just Enough Information (JEI)"
-
 [flavor_groups.worldgen]
-name = "Worldgen Structures"
+name = "Full Worldgen Structures"
 description = "Do you want to create singleplayer worlds with the same structure generation mods as a server?\n<ul><li>These files are <b>not needed</b> to connect to a server using this modpack</li></ul>"
 side = "both"
 choices = ["worldgen_on", "worldgen_off"]
@@ -70,11 +57,6 @@ flavors = ["eye_candy", "vr"]
 flavors = ["eye_candy", "vr"]
 [metafile.skin-layers-3d]
 flavors = ["eye_candy", "vr"]
-
-[metafile.tmrv]
-flavors = ["tmrv"]
-[metafile.jei]
-flavors = ["jei"]
 
 [metafile.additional-structures]
 flavors = ["worldgen_on"]
